@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Venus's Pentagram!"
+title: "Venus's Pentagram"
 ---
 ![image](https://i0.wp.com/math.ucr.edu/home/baez/astronomical/pentagram_of_venus.gif)
 This image, made by Greg Egan
