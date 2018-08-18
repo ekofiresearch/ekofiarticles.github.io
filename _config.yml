@@ -5,14 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "neon" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "tr-TR"
-title                    : "Ekofi Bilim"
+locale                   : "en-EN"
+title                    : "Ekofi Science"
 title_separator          : "-"
-name                     : "Ekofi Bilim"
-description              : "Her hayal bir dünyadır."
+name                     : "Ekofi Science"
+description              : "Every dream is a world."
 url                      : 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ekofi Bilim"
+  name             : "Ekofi Science"
   avatar           : #"/assets/images/t-azure.png"
   bio              : "Her hayal bir dünyadır."
   location         : 
@@ -101,7 +101,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "ekofi.science"
+  instagram        : "ekf.rs"
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UC21giWIPODrvFzWjOCM0r3g"
+  youtube          : "https://www.youtube.com/channel/UCvv5oNVGrmbUJ9IuKMRXrFA"
 
 
 # Reading Files
