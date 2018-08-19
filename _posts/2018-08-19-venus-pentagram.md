@@ -2,7 +2,7 @@
 layout: single
 title: "Venus's Pentagram"
 ---
-![image](https://i0.wp.com/math.ucr.edu/home/baez/astronomical/pentagram_of_venus.gif)
+![image](https://i0.wp.com/math.ucr.edu/home/baez/astronomical/pentagram_of_venus.gif)                                                      
 This image, made by Greg Egan
 
 With the passage of each year, you will see the Sun go around the Earth. As the Sun goes around the Earth 8 times, Venus goes around the Sun 13 times, and traces out the pretty curve shown here.
