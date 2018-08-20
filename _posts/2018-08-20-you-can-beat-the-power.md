@@ -22,7 +22,7 @@ Sources may explode at high temperatures.
 The yield of resources may decrease from cold /or/ may not work.
 Also, electric vehicles are less efficient in cold weather.
                                                                                      
-4 - Be careful not to allow steam to come out of the plugs and sockets.
+4 - Make sure that the steam does not come to the plugs and sockets.
 --
 Especially when children are handicapped, it can have bad consequences. It can also cause a very large explosion.
                                                                                                                    
