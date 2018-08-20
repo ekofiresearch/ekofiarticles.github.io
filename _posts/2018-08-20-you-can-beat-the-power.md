@@ -12,7 +12,7 @@ What can I do? Just relax and think before electric comes.
                                                                                      
 2 - Try to send back the electric power.
 --
-![image](/assets/images/power.png)
+![image](/assets/images/power.png)                                                                                            
 You can (maybe :/) beat electric power.
                                                                                               
 3 - Keep the electrical sources away from the very cold and away from the very hot.
