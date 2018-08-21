@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Dünyadaki ilk canlı organizma neydi? Nereden geldi?"
+title: "World's first organism"
 ---
 There is no easy way to describe what the first organism might be, because living things slowly evolved from the molecules without passing clear limits separating life from life. "There was no living thing yesterday, but it exists today." There was no definite point in time when you could.
 
