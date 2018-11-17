@@ -12,7 +12,7 @@ Bone Conduction: How does it work?
 -
 We all hear voices through our bones (with bone or bone conduction) and through our eardrums (airborne or airborne). Most sounds are heard by our eardrum. The eardrum converts sound waves into vibrations and transmits them to the cochlea (or inner ear). However, in some cases, direct vibrations are heard by the inner ear by bypassing your eardrum. In fact, this is one way to hear your own voice. This is also how the whales hear.
 
-The famous 18th-century composer Ludwig van Beethoven, who was almost completely deaf, discovered the Bone Conduction. Beethoven found a way to hear the sound of the piano from his jawbone by picking up a stick in his mouth and clenching his teeth. When the vibrations were transferred from the piano to his jaw, he got the perception of the sound. This has proven that the sound can reach our hearing system from a medium other than the eardrum, and that the other vehicle is our bones.
+The famous 18th-century composer Ludwig van Beethoven, who was almost completely deaf, discovered the Bone Conduction. Beethoven found a way to hear the sound of the piano from his jawbone by picking up a stick in his mouth and clenching his teeth. When the vibrations were transferred from the piano to his jaw, he got the perception of the sound. This has proven that the sound can reach our hearing system from other than the eardrum, and that the other vehicle is our bones.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
