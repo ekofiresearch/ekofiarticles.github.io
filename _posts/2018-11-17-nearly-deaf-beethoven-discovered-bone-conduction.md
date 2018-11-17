@@ -4,7 +4,7 @@ title: "Beethoven (nearly deaf) discovered bone conduction as a means to hear hi
 ---
 It was discovered by Ludwig van Beethoven in the 18th century. The famous composer has discovered that he can hear his compositions with a stick attached to his piano and that of the jawbone through his inner ear.
 
-Beethoven found a way to hear the sound of the piano from the jawbone by attaching the piano to the piano and clamping his teeth.
+Beethoven found a way to hear the sound of the piano from the jawbone by attaching the metal rod to the piano and clamping his teeth.
 
 ![image](https://pbs.twimg.com/media/DmAsJjTV4AAm5pB.jpg)
 
