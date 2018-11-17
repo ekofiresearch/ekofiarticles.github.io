@@ -34,7 +34,7 @@ How we feel with bone conduction
 -
 Bone conduction skips the eardrum. In listening to bone conduction, bone conduction devices (such as headphones) perform the role of your eardrum. These devices decode sound waves and convert them directly into vibrations that can be received by Cochlea, so the eardrum is never included. Ir Sound olarak reaches the ears as bones (or skull) and vibration through the skin.
 
-![image](https://motorbikewriter.com/content/uploads/2015/09/bae_systems-bone_conduction_v5-492x300.jpg)
+![image](https://im.haberturk.com/2015/12/17/ver1483009548/1168230_620x410.jpg)
 
 The advantage for people with hearing loss
 -
