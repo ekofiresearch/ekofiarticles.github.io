@@ -6,7 +6,7 @@ It was discovered by Ludwig van Beethoven in the 18th century. The famous compos
 
 Beethoven found a way to hear the sound of the piano from the jawbone by attaching the metal rod to the piano and clamping his teeth.
 
-![image](https://pbs.twimg.com/media/DmAsJjTV4AAm5pB.jpg)
+![image](https://im.haberturk.com/2015/12/17/ver1483009548/1168230_620x410.jpg)
 
 Bone Conduction: How does it work?
 -
@@ -34,7 +34,7 @@ How we feel with bone conduction
 -
 Bone conduction skips the eardrum. In listening to bone conduction, bone conduction devices (such as headphones) perform the role of your eardrum. These devices decode sound waves and convert them directly into vibrations that can be received by Cochlea, so the eardrum is never included. Ir Sound olarak reaches the ears as bones (or skull) and vibration through the skin.
 
-![image](https://im.haberturk.com/2015/12/17/ver1483009548/1168230_620x410.jpg)
+![image](https://pbs.twimg.com/media/DmAsJjTV4AAm5pB.jpg)
 
 The advantage for people with hearing loss
 -
