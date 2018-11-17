@@ -6,7 +6,7 @@ It was discovered by Ludwig van Beethoven in the 18th century. The famous compos
 
 Beethoven found a way to hear the sound of the piano from the jawbone by attaching the piano to the piano and clamping his teeth.
 
-![image](https://pbs.twimg.com/media/dmasjjtv4aam5pb.jpg)
+![image](https://pbs.twimg.com/media/DmAsJjTV4AAm5pB.jpg)
 
 Bone Conduction: How does it work?
 -
