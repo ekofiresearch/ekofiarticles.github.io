@@ -23,15 +23,15 @@ The melting point of gallium is used as a temperature reference point. Gallium a
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Atomic number (number of protons in the nucleus): 31
-Atomic symbol (during periodic elements): Ga
-Atomic weight (average mass of atom): 69.723
-Density: 5.91 grams of cubic centimeters
-Condition at room temperature: solid
-Melting point: degrees 85.57 degrees Fahrenheit (29.76 degrees Celsius)
-Boiling point: 3.999 F (2.204 C)
-Number of isotopes (atoms with a different number of neutrons of the same element): 24
-The most common isotopes: two stable Ga-69 (natural abundance 60.1 percent) and Ga-71 (natural abundance 39.9%).
+- Atomic number (number of protons in the nucleus): 31
+- Atomic symbol (during periodic elements): Ga
+- Atomic weight (average mass of atom): 69.723
+- Density: 5.91 grams of cubic centimeters
+- Condition at room temperature: solid
+- Melting point: degrees 85.57 degrees Fahrenheit (29.76 degrees Celsius)
+- Boiling point: 3.999 F (2.204 C)
+- Number of isotopes (atoms with a different number of neutrons of the same element): 24
+- The most common isotopes: two stable Ga-69 (natural abundance 60.1 percent) and Ga-71 (natural abundance 39.9%).
 
 ![image](https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/fc/3046586-poster-p-1-will-sillicon-valley-become-gallium-valley-this-inventor-hopes-so.jpg)
 
