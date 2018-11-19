@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "100 times faster internet access with new groundbreaking technology"
+title: "100 times faster internet access with new groundbreaking technology: Twisted light form"
 ---
 Broadband fiber optics carry information at the speed of light. The coding and processing of the light affects the data rates.
 
