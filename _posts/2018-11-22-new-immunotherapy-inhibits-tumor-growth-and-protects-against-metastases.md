@@ -8,7 +8,7 @@ New immunotherapy technique describes T cell receptors with 100% specificity for
 
 A new immunotherapy screening prototype developed by the University of California, Irvine researchers were able to create individualized cancer therapies that would allow physicians to target tumors effectively without the side effects of standard cancer drugs.
 
-Weian Zhao and Nobel laureate David Baltimore, developed a monitoring and screening system that, within a few days, identified T cell receptors with 100% specificity for individual tumors.
+Weian Zhao from UCI and Nobel laureate David Baltimore, developed a monitoring and screening system that, within a few days, identified T cell receptors with 100% specificity for individual tumors.
 
 In the human immune system, there are molecules on the surface of T cells that bind to the antigens on the surface of foreign cells or cancer cells. To treat a tumor with T cell therapy, researchers should define exactly which receptor molecules work against antigens of a particular tumor. UCI researchers accelerated this identification process.
 
@@ -23,7 +23,7 @@ In the human immune system, there are molecules on the surface of T cells that b
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-"This technology is particularly exciting because it eliminates the huge challenges in cancer treatments," said Zhao, a professor of pharmaceutical sciences at the Chao Family Comprehensive Center and Sue & Bill Gross Stem Cell Research Center. The use of this droplet microfluidic screening significantly reduces the cost of making new cancer immunotherapies associated with less systemic side effects than standard chemotherapy drugs and greatly accelerates the time frame for treatment."
+"This technology is particularly exciting because it eliminates the huge challenges in cancer treatments," said Zhao, a professor of pharmaceutical sciences. The use of this droplet microfluidic screening significantly reduces the cost of making new cancer immunotherapies associated with less systemic side effects than standard chemotherapy drugs and greatly accelerates the time frame for treatment."
 
 He added that traditional cancer therapies offer a one-dimensional disease response, such as chemotherapy drugs, which can lead to systemic and serious side effects.
 
