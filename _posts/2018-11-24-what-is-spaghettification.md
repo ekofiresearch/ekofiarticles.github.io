@@ -4,6 +4,8 @@ title: "What is spaghettification?"
 ---
 In astrophysics, spaghettification (or noodle effect) is the vertical stretching and horizontal compression of objects into long thin shapes in a very strong non-homogeneous gravitational field; it's caused by extreme tidal forces. In the most extreme cases, near the black holes, the stresses are so strong that no object is able to withstand it, no matter how strong the object is. Within a small region the horizontal compression balances the vertical stretching so that small objects being spaghettified experience no net change in volume.
 
+![image](https://lh3.googleusercontent.com/-XtHBcdp6OIc/UydkvkyFO3I/AAAAAAAAFtc/JlD18rprfaQ/s1600/Spaghettification.jpg)
+
 Stephen Hawking described the flight of a fictional astronaut "stretched like a spaghetti" by the gravitational gradient (power difference) from head to toe through the event horizon of the black hole. The reason this happens would be because the gravity exerted from the singularity would be much stronger at one end of the body than the other. If one were to fall into a black hole feet first, the gravity at their feet would be much stronger than at their head, causing the person to be vertically stretched. Along with that, the right side of the body will be pulled to the left, and the left side of the body will be pulled to the right, horizontally compressing the person. However, the term "spaghettification" was established well before this. Spaghettification of a star was imaged for the first time in 2018 by researchers observing a pair of colliding galaxies approximately 150 million light-years from Earth.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
