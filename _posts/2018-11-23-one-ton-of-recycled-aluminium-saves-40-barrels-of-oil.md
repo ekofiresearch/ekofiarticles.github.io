@@ -2,7 +2,7 @@
 layout: single
 title: "Recycling of one aluminum can saves 95% of the energy required to make new one. Also, one ton of recycled aluminum saves 40 barrels of oil"
 ---
-Recycling of one aluminum can saves 95% of the energy required to make new one. Also, one ton of recycled aluminum saves 40 barrels of oil,
+Recycling of one aluminum can saves 95% of the energy required to make new one. Also, one ton of recycled aluminum saves 40 barrels of oil.
 
 Source: [Stanford University](https://lbre.stanford.edu/pssistanford-recycling/frequently-asked-questions/frequently-asked-questions-benefits-recycling)
 
