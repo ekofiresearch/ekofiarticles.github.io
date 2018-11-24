@@ -25,17 +25,6 @@ Imagine four separate objects in the space above a planet, positioned in a diamo
 
 Now think of these four objects with the connected parts of a larger object. A rigid body will resist distortion and the body is broken to compensate for tidal forces and mechanical equilibrium must be attained. If the tidal forces are too large, the body can produce plastic and flowable or broken pieces of vertical parts before the gel-tapping forces are stabilized or broken.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7868661326160958"
-     data-ad-slot="3072558811"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 Inside or outside the event horizon
 -
 The point where tidal forces destroy an object or kill a person will depend on the size of the black hole. For a super-mass black hole like the ones in the center of a galaxy, this astronaut can pass the event horizon without crossing and pulling, as this point is within the event horizon. An event horizon towards the center is inevitable. For small black holes whose Schwarzschild radius is much closer to the singularity, the tidal forces would kill even before the astronaut reaches the event horizon. For example, for a black hole of 10 Sun masses the above-mentioned rod breaks at a distance of 320 km, well outside the Schwarzschild radius of 30 km. For a supermassive black hole of 10,000 Sun masses it will break at a distance of 3200 km, well inside the Schwarzschild radius of 30,000 km.
