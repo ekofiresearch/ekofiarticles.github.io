@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Ekofi Science"
-  avatar           : #"/assets/images/t-azure.png"
+  avatar           : "/assets/images/pp.png"
   bio              : "Every dream is a world."
   location         : 
   email            : "proxima@ekofi.science"
