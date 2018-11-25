@@ -2,7 +2,7 @@
 layout: single
 title: "● LIVE: Landing of Mars InSight Lander - November 26, 2018 20:00 UTC (3 p.m. EST)"
 ---
-**● LIVE**: [Landing of Mars InSight Lander - November 26, 2018 20:00 UTC (3 p.m. EST)](youtu.be/j3yC9nI4sNc)
+**● LIVE**: [Landing of Mars InSight Lander - November 26, 2018 20:00 UTC (3 p.m. EST)](https://youtu.be/j3yC9nI4sNc)
                                                                                                                  
                                                                                                                  
                                                                                                                                                                                                                                   
