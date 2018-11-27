@@ -52,17 +52,6 @@ But Bigliassi doesn't want to overdo the positive effects of music.
 
 “I have some practical concerns about the exaggerated use of music and other forms of stimulation during exercise that are relevant to share. This is because, as humans, we are constantly trying to escape from reality and, also, escape from all forms of physical discomfort/pain,” he explained.
 
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-7868661326160958"
-     data-ad-slot="3072558811"></ins>
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 “We have learnt so much about the psychophysical, psychological, and psychophysiological effects of music in the past two decades that people are almost developing a peculiar form of stimulus dependence. If we continue to promote the unnecessary use of auditory and visual stimulation, the next generation might be no longer able to tolerate fatigue-related symptoms and exercise in the absence of music.”
 
 “My view is that music and audiovisual stimuli can and should be used and promoted, but with due care,” Bigliassi said. “We should, perhaps, learn more about the joys of physical activity and develop methods/techniques to cope with the detrimental effects of fatigue (i.e., learn how to listen to our bodies and respect our biomechanical and physiological limitations).”
