@@ -8,6 +8,8 @@ A 42-year-old woman almost didn't respond when her husband brought her to the em
 
 Overlooked: The patient's husband said that he had a migraine he had taken, and that he had taken the medication for the tension, verapamil, to help prevent headache. But the blood tests showed in his system that there was a scary amount of five times the level of drug safety.
 
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Grapefruit–drug_interactions)
+
 Overdose? Was she trying to commit suicide? Only the doctors could be understood after joining the story.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
