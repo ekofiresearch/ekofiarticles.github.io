@@ -10,7 +10,7 @@ Each month module costs approximately $ 149,000,000; Each spacecraft is adjusted
 
 The Moon module started with the story of the rising stages, the story of NASA, which is doing Seismic experiments in the Moon. Seismology can tell scientists a lot about this body surface and internal structure by measuring how and how shock waves pass through a planetary body. Seismologists do this on Earth by studying earthquakes, so NASA decided to do the same kind of research on the moon.
 
-As part of Moon Seismology experiments, the Apollo Lunar Surface Experiment Package or ALSEP, each Apollo reached the Moon with a landing mission. ALSEPler is designed to investigate the geophysical environment of the Moon, to answer its questions about its internal structure, its geometric shape, its tectonic activity and to shed light on the dynamic interaction with the Earth. In March 1966, the Bendix Systems Division was awarded to Bendix Corporation. The total budget was $ 17.3 million (about $ 126.5 million adjusted for inflation).
+As part of Moon Seismology experiments, the Apollo Lunar Surface Experiment Package or ALSEP, each Apollo reached the Moon with a landing mission. ALSEPs are designed to investigate the geophysical environment of the Moon, to answer its questions about its internal structure, its geometric shape, its tectonic activity and to shed light on the dynamic interaction with the Earth. In March 1966, the Bendix Systems Division was awarded to Bendix Corporation. The total budget was $ 17.3 million (about $ 126.5 million adjusted for inflation).
 
 ![image](https://www.popsci.com/sites/popsci.com/files/styles/325_1x_/public/2-s70-46152.jpg?itok=Xo3Dz2SS)*Apollo 14 astronauts on training NASA*
 
