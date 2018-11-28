@@ -61,8 +61,6 @@ Johnson found that pod seedlings that were not attacked by aphids, but were conn
 
 ”There were some signals about the aphids among these plants, and these signals were transported through myxalial mycelial networks, Johnson says Johnson.
 
-![image](https://upload.wikimedia.org/wikipedia/commons/c/c9/Mycelium_RH_%283%29.jpg)*Source: Wikimedia Commons*
-
 Just like in the human Internet, the fungal internet has a dark side. Our Internet is undermining privacy and facilitating serious crimes - and often allowing the spread of computer viruses. Likewise, the mushroom connections of plants means that they are never alone and that malicious neighbors can harm them.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -84,6 +82,8 @@ This may not sound too bad, but it could be even worse.
 
 Plants must compete with their neighbors for resources such as water and light. As part of this war, some release chemicals that damage competitors.
 
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mycelium_RH_%289%29.jpg/800px-Mycelium_RH_%289%29.jpg)*Source: Wikimedia Commons*
+
 This allelopathy can be found in trees, including acacia, sugary fruits, American sycamore and various types of Eucalyptus. They either release substances that reduce the chances of other plants installed nearby, or reduce the spread of germs around their roots.
 
 But skeptic scientists doubt this. They say that harmful chemicals will be absorbed by the soil before it goes too far, or that germs will break down.
@@ -98,8 +98,6 @@ But skeptic scientists doubt this. They say that harmful chemicals will be absor
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-![image](https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mycelium_RH_%289%29.jpg/800px-Mycelium_RH_%289%29.jpg)*Source: Wikimedia Commons*
 
 But perhaps the plants can solve this problem by utilizing underground mushroom nets that cover larger distances.
 
