@@ -4,13 +4,11 @@ title: "Blood flow to the brain during the thought process is so strong that it 
 ---
 This experiment was conducted by Angelo Mosso in the 19th century, but only noticed with the rise of neurobiology.
 
-Most people believe that the Wright Brothers are the inventors of human flight. However, hundreds of years ago, Leonardo da Vinci, who dreamed of human flight, designed the wing, saying how the birds used the elevator and wing-like concepts.
-
-Now scientists have uncovered new details about the man you might call "the da Vinci" of modern brain science. He was a physiologist named Angelo Mosso who lived in Italy during the 19th century, and until several years ago his manuscripts were mostly collecting dust in the archives of an Italian university.
+Scientists have uncovered new details about the man you might call "the da Vinci" of modern brain science. He was a physiologist named Angelo Mosso who lived in Italy during the 19th century, and until several years ago his manuscripts were mostly collecting dust in the archives of an Italian university.
 
 ![image](https://media.npr.org/assets/img/2014/08/16/angelo_mosso_custom-465166791be34c950d0b74a98329dada54b47be4-s200-c85.jpg)*Angelo Mosso*
 
-Inside the manuscripts, researchers found sketches of a contraption built in 1882: the first machine designed to watch the brain at work. It didn't resemble modern brain scanners in any sense.
+In his manuscripts, researchers found sketches of a contraption built in 1882: the first machine designed to watch the brain at work. It didn't resemble modern brain scanners in any sense.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
