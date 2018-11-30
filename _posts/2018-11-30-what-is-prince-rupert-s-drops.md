@@ -29,7 +29,7 @@ The second unusual property of the drops, namely the strength of the heads, is a
 
 In a Prince Rupert's drop, the interface between the inner and outer regions deflects the forces sideways, so the crack can't propagate. Also, if the tail is broken, the shallow cracks in the tail shoot parallel to the axis of the drop, deep into the head, and into the interface. The damage is so great and causes an explode.
 
-![image](https://img.newatlas.com/prince-ruperts-9.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=max&q=60&w=616&s=d6eaac3b8ded319231ac79552d35c2c6)*1994 high-speed photography images of an exploding Prince Rupert's drop(Credit: Purdue University)*
+![image](https://img.newatlas.com/prince-ruperts-9.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=max&q=60&w=616&s=d6eaac3b8ded319231ac79552d35c2c6)*1994 - Credit: Purdue University*
 
 "The tensile stress is what usually causes materials to fracture analogous to tearing a sheet of paper in half," says Purdue postdoctoral associate Koushik Viswanathan. "But if you could change the tensile stress to a compressive stress, then it becomes difficult for cracks to grow, and this is what happens in the head portion of the Prince Rupert's drops."
 
