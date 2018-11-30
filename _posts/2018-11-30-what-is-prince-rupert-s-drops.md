@@ -23,7 +23,7 @@ These droplets are characterized internally by very high residual stresses, whic
 
 History
 -
-Prince Rupert did'nt discover the drops, he played a role in their history by bringing them to Britain in 1660. He gave them to King Charles II, who in turn delivered them in 1661 to the Royal Society (which had been created the previous year) for scientific study. 
+Prince Rupert didn't discover the drops, he played a role in their history by bringing them to Britain in 1660. He gave them to King Charles II, who in turn delivered them in 1661 to the Royal Society (which had been created the previous year) for scientific study. 
 
 More details
 -
