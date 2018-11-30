@@ -27,5 +27,11 @@ The explosive disintegration arises due to multiple crack bifurcation events whe
 
 The second unusual property of the drops, namely the strength of the heads, is a direct consequence of large compressive residual stresses—up to 700 megapascals (100,000 psi)—that exist in the vicinity of the head's outer surface. This stress distribution is measured by using glass's natural property of stress-induced birefringence and by employing techniques of 3D photoelasticity. The high fracture toughness due to residual compressive stresses makes Prince Rupert's drops one of the earliest examples of toughened glass.
 
+In a Prince Rupert's drop, the interface between the inner and outer regions deflects the forces sideways, so the crack can't propagate. Also, if the tail is broken, the shallow cracks in the tail shoot parallel to the axis of the drop, deep into the head, and into the interface. The damage is so great and causes an explode.
+
+![image](https://img.newatlas.com/prince-ruperts-9.jpg?auto=format%2Ccompress&ch=Width%2CDPR&fit=max&q=60&w=616&s=d6eaac3b8ded319231ac79552d35c2c6)*1994 high-speed photography images of an exploding Prince Rupert's drop(Credit: Purdue University)*
+
+"The tensile stress is what usually causes materials to fracture analogous to tearing a sheet of paper in half," says Purdue postdoctoral associate Koushik Viswanathan. "But if you could change the tensile stress to a compressive stress, then it becomes difficult for cracks to grow, and this is what happens in the head portion of the Prince Rupert's drops."
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SrLfShIPYko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>*Also, I found an interesting video: Crushing Prince Rupert's drop with hydraulic press*
 
