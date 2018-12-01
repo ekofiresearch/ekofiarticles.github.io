@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "You can't break this glass with a hammer: Prince Rupert's drops"
+title: "You can't break this glass without hitting 15,000 pascal with a hammer: Prince Rupert's drops"
 ---
 The drops of Prince Rupert are produced by dropping melted glass drops into cold water. Water quickly cools and solidifies the glass from the outside. This thermal quenching can be explained using a simplified model of a fast chilled sphere.
 
