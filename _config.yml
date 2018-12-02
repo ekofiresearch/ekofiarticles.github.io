@@ -9,9 +9,9 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "en-EN"
-title                    : "Ekofi Science"
+title                    : "Ekofi Research"
 title_separator          : "-"
-name                     : "Ekofi Science"
+name                     : "Ekofi Research"
 description              : "Every dream is a world."
 url                      : 
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ words_per_minute         : 200
 comments:
   provider               : ""
   disqus:
-    shortname            : ""
+    shortname            : "ekofiresearch"
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -84,7 +84,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ekofi Science"
+  name             : "Ekofi Research"
   avatar           : "/assets/images/pp.png"
   bio              : "Every dream is a world."
   location         : 
@@ -101,7 +101,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "ekf.rs"
+  instagram        : #
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
   pinterest        :
