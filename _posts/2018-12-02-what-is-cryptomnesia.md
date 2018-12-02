@@ -12,6 +12,17 @@ In the first empirical study of cryptomnesia, people in a group began to produce
 
 ![image](https://static01.nyt.com/images/2016/08/16/science/16tb-cryptomnesia/16tb-cryptomnesia-articleLarge.png?quality=90&auto=webp)*Drawn by the first picture*
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 Prejudice
 -
 Although studies have differentiated between two types of cryptomnesia, they have been frequently studied. The distinction between these two types of plagiarism is in the underlying memory bias responsible - in particular, forgotten thought or considered? The first kind of prejudice is a familiarity. Plagiarism reproduces a previously presented idea, but believes the idea is an original creation. The reproduced idea may be the idea of ​​another or the idea of ​​a previous time.
