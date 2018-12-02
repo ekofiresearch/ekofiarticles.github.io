@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "To think of an idea that had previously been thought of as having a new idea: Cryptomnesia"
+title: "Believing that a forgotten and old memory is a new idea: Cryptomnesia"
 ---
 Cryptomnesia occurs when a forgotten memory comes back in a way that is believed to be something new and original. This is a memory bias in which a person can wrongly remember to produce a thought, an idea, a melody or a joke; For example, after reading the information, it is tried to live a moment like a new inspiration.
 
