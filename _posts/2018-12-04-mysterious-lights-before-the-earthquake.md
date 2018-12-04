@@ -7,9 +7,9 @@ title: "What does mysterious lights mean before the earthquake?"
 
 That's right. Earthquakes can produce very bad results. But sometimes, earthquakes can send warning signals (such as EQL).
 
-So, what is earthquake lights (EQL)?
+So, what is earthquake lights (EQLs)?
 -
-is a luminous aerial phenomenon that reportedly appears in the sky at or near areas of tectonic stress, seismic activity, or volcanic eruptions. Skeptics point out that the phenomenon is not sufficiently understood and that many of the reported observations can be explained by ordinary explanations.
+It is a luminous aerial phenomenon that reportedly appears in the sky at or near areas of tectonic stress, seismic activity, or volcanic eruptions. Skeptics point out that the phenomenon is not sufficiently understood and that many of the reported observations can be explained by ordinary explanations.
 
 But, how it looks?
 -
@@ -65,13 +65,15 @@ Possible Explanations
 -
 Research into earthquake lights is ongoing; as such, several mechanisms have been proposed. Positive Holes is one such model.
 
-Some models suggest the generation of EQLs involve the ionization of oxygen to oxygen anions by breaking of peroxy bonds in some types of rocks (dolomite, rhyolite, etc.) by the high stress before and during an earthquake. After the ionisation, the ions travel up through the cracks in the rocks. Once they reach the atmosphere these ions can ionise pockets of air, forming plasma that emits light. Lab experiments have validated that some rocks do ionise the oxygen in them when subjected to high stress levels. Research suggests that the angle of the fault is related to the likelihood of earthquake light generation, with subvertical (nearly vertical) faults in rifting environments having the most incidences of earthquake lights.
+Some models suggest the generation of EQLs involve the ionization of oxygen to oxygen anions by breaking of peroxy bonds in some types of rocks (dolomite, rhyolite, etc.) by the high stress before and during an earthquake. After ionization, ions pass through cracks in rocks. When they reach the atmosphere, these ions can ionize the light-emitting plasma-forming air pockets. Laboratory experiments have confirmed that some rocks ionize oxygen in them when exposed to high stress levels. Research suggests that the angle of the fault is related to the likelihood of earthquake light generation, with subvertical (nearly vertical) faults in rifting environments having the most incidences of earthquake lights.
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/9/9f/How_EQL_form.gif)*Credit: Wikimedia Commons*
 
-One hypothesis involves intense electric fields created piezoelectrically by tectonic movements of rocks containing quartz.
+- One hypothesis involves intense electric fields created piezoelectrically by tectonic movements of rocks containing quartz.
 
-Another possible explanation is local disruption of the Earth's magnetic field and/or ionosphere in the region of tectonic stress, resulting in the observed glow effects either from ionospheric radiative recombination at lower altitudes and greater atmospheric pressure or as aurora. However, the effect is clearly not pronounced or notably observed at all earthquake events and is yet to be directly experimentally verified.
+- Another possible explanation is local disruption of the Earth's magnetic field and/or ionosphere in the region of tectonic stress, resulting in the observed glow effects either from ionospheric radiative recombination at lower altitudes and greater atmospheric pressure or as aurora.
+
+However, the effect is clearly not pronounced or notably observed at all earthquake events and is yet to be directly experimentally verified.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -85,4 +87,4 @@ Another possible explanation is local disruption of the Earth's magnetic field a
 </script>
 
 
-During the American Physical Society's 2014 March meeting, research was provided that gave a possible explanation for the reason why bright lights sometimes appear during an earthquake. The research stated that when two layers of the same material rub against each other, voltage is generated. The researcher, Professor Troy Shinbrot of Rutgers University, conducted lab experiments with different types of grains to mimic the crust of the earth and emulated the occurrence of earthquakes. "When the grains split open, they measured a positive voltage spike, and when the split closed, a negative spike." The crack allows the voltage to discharge into the air which then electrifies the air and creates a bright electrical light when it does so. According to the research provided, they have produced these voltage spikes every single time with every material tested. While the reason for such an occurrence was not provided, Professor Troy Shinbrot referenced the light to a phenomenon called triboluminescence. Researchers hope that by getting to the bottom of this phenomenon, it will provide more information that will allow seismologists to better predict earthquakes.
+In the March 2014 meeting of the American Physical Society, research was carried out that might be a possible explanation for the occurrence of bright lights during an earthquake. The study indicated that when two layers of the same material are sliding together, voltage occurs. Professor Troy Shinbrot of Rutgers University, the researcher, conducted laboratory experiments with different types of cereals to mimic the earth's crust and to simulate the occurrence of earthquakes. "When the grains split open, they measured a positive voltage spike, and when the split closed, a negative spike." The crack allows the voltage to discharge into the air which then electrifies the air and creates a bright electrical light when it does so. According to the research, they produced these voltage increases every time with every material tested. Although the cause of such an event could not be provided, Professor Troy Shinbrot referred to a phenomenon called light tribological. Researchers hope that by getting to the bottom of this phenomenon, it will provide more information that will allow seismologists to better predict earthquakes.
