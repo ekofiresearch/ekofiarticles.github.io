@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "What does mysterious lights mean before the earthquake?"
+title: "Mysterious lights in the sky can be seen before a huge earthquake"
 ---
 > You can no more win a war than you can win an earthquake.
 > *- Jeannette Rankin*
