@@ -5,7 +5,7 @@ title: "Fibre-optic cables can be used to detect earthquakes and other ground mo
 Fiber-optic cables (including the networks) already deployed for communications purposes, and can be used to detect earthquakes and other ground movements. The optical data cables can also pick up seismic signals from pickaxe sounds, cars or wave movements in the ocean.
 This is the result of a study appearing in the journal Nature Communications on July 3 2018. 
 
-![image](https://technologytimes.ng/wp-content/uploads/2016/04/fiber-optic-cable-serivces.png)
+![image](https://static.interestingengineering.com/images/OCTOBER/sizes/optical_fiber_resize_md.jpg)
 
 Its main authors are Philippe Jousset and Thomas Reinsch from GFZ German Research Centre for Geosciences (GFZ), section Geothermal Energy Systems, in Potsdam, Germany. The scientists carried out the investigation together with colleagues from Iceland, the UK, as well as Berlin, Germany.
 
