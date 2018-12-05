@@ -40,12 +40,9 @@ These analyses reveal an astounding feature:
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-![image](https://s.newsweek.com/sites/www.newsweek.com/files/styles/embed_tablet/public/2017/02/06/southatlanticanomaly.png)*Location of the South Atlantic Anomaly.
-MICHAEL OSADICW/JOHN TARDUNO, CC BY-ND*
+![image](https://s.newsweek.com/sites/www.newsweek.com/files/styles/embed_tablet/public/2017/02/06/southatlanticanomaly.png)*Credit: MICHAEL OSADICW/JOHN TARDUNO, CC BY-ND*
 
 The poles have reversed frequently over the history of the planet, but the last reversal is in the distant past, some 780,000 years ago. The rapid decay of the recent magnetic field, and its pattern of decay, naturally raises the question of what was happening prior to the last 160 years.
-
-
 
 Magnetic field flow
 -
