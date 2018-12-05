@@ -45,9 +45,9 @@ MICHAEL OSADICW/JOHN TARDUNO, CC BY-ND*
 
 The poles have reversed frequently over the history of the planet, but the last reversal is in the distant past, some 780,000 years ago. The rapid decay of the recent magnetic field, and its pattern of decay, naturally raises the question of what was happening prior to the last 160 years.
 
-![image](https://www.astro.cz/apod_data/2002/11/field_glatz_big.gif)
 
-Magnetic field in changeability
+
+Magnetic field flow
 -
 Sampling in the Limpopo River Valley locations, A.D. Between the years of 1000 and 1600 it revealed the first archaeomagnetic history for South Africa. What we found is that around 1300 A.D. Then the density increased at a much slower rate.
 
@@ -65,6 +65,8 @@ Over the last decade, researchers have accumulated images from the analyses of e
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+![image](https://www.astro.cz/apod_data/2002/11/field_glatz_big.gif)
 
 This particular region underneath southern Africa has the somewhat wordy title of the African Large Low Shear Velocity Province. Although it is descriptive, but many jargon-rich whips, it is a profound property that should be tens of millions of years old.  While thousands of kilometers across, its boundaries are sharp. Interestingly, the inverted flux patch almost coincides with the eastern edge.
 
