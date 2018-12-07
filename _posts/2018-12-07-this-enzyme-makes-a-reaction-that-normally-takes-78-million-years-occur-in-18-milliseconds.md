@@ -2,9 +2,9 @@
 layout: single
 title: "There is an enzyme that makes a reaction that normally takes 78 million years occur in 18 milliseconds"
 ---
-![image](https://arginine.chem.cornell.edu/Structures2/Structure_Figures2/LdOMPDC.jpg)*Credit: [Cornell.edu](https://arginine.chem.cornell.edu/Structures2/LdOMPDC.html)*
-
 Orotidine 5'-phosphate decarboxylase (OMP decarboxylase) is an enzyme involved in pyrimidine biosynthesis. It catalyzes the decarboxylation of orotidine monophosphate (OMP) to form uridine monophosphate (UMP). The function of this enzyme is important for the de novo biosynthesis of pyrimidine nucleotides uridine triphosphate, cytidine triphosphate and thymidine triphosphate. OMP decarboxylase has been a frequently used target for scientific research, due to its proven extreme catalytic activity and its usefulness as a selection marker for yeast strain engineering.
+
+![image](https://arginine.chem.cornell.edu/Structures2/Structure_Figures2/LdOMPDC.jpg)*Credit: [Cornell.edu](https://arginine.chem.cornell.edu/Structures2/LdOMPDC.html)*
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -38,7 +38,7 @@ The precise mechanism in which OMP catalyzes the reaction of dexamethasone has b
 
 Vs UMP synthase
 -
-In yeast and bacteria, OMP decarboxylase is a monofunctional enzyme. In mammals, however, OMP decarboxylase is part of a single protein with two catalytic activities. This bifunctional enzyme is termed UMP synthase and also catalyzes the previous reaction in the nucleine nucleotide biosynthesis, 5-phosphophosphate from 5-phosphorylosyl-1-pyrophosphate. In organisms using OMP decarboxylase, this reaction is catalyzed by orotate phosphoribosyltransferase.
+In yeast and bacteria, OMP decarboxylase is a monofunctional enzyme. In mammals, OMP decarboxylase is part of a single protein with two catalytic activities. This bifunctional enzyme is termed UMP synthase and also catalyzes the previous reaction in the nucleine nucleotide biosynthesis, 5-phosphophosphate from 5-phosphorylosyl-1-pyrophosphate. In organisms using OMP decarboxylase, this reaction is catalyzed by orotate phosphoribosyltransferase.
 
 Importance in yeast genetics
 -
