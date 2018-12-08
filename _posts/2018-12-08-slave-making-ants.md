@@ -9,9 +9,9 @@ Their goal is to be king.
 
 Let's look at the life of the 'ant kings'
 -
-The slave-producing ants are the offspring of the other ant species, which catch the offspring of their colonies to increase the labor force of their colonies. After the slave-worker appeared in his home, while the slave workers worked as if they were in his own colonies, the parasitic workers concentrate only on the renewal of the worker's power from the neighboring home nests through a process called a slave raid.
+The slave-making ants are the offspring of the other ant species, which catch the offspring of their colonies to increase the labor force of their colonies. After the slave-worker appeared in his home, while the slave workers worked as if they were in his own colonies, the parasitic workers concentrate only on the renewal of the worker's power from the neighboring home nests through a process called a slave raid.
 
-Slave-producing ants specialize in parasitizing a single species or a group of related species, and are usually close relatives to hosts typical of social parasites. Slave-makers can be either permanent social parasites (therefore, depending on their enslaved ants all their lives) or facultative slaves. Behavior is unusual among ants, but has evolved several times independently.
+Slave-making ants specialize in parasitizing a single species or a group of related species, and are usually close relatives to hosts typical of social parasites. Slave-makers can be either permanent social parasites (therefore, depending on their enslaved ants all their lives) or facultative slaves. Behavior is unusual among ants, but has evolved several times independently.
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/5/59/Polyergus_lucidus_with_host_Formica_archboldi.jpg)
 *Wikimedia Commons*
