@@ -55,7 +55,7 @@ At this point, slave construction may sound like an extremely effective way to l
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-Between about 15,000 known ant species, slave-making has been recorded in only 50. Of the 21 sub-families known in the ants, only two have slaves. Five different subgroups of slave-producing ants belong to a relatively small group, Formicoxenini.
+Between about 15,000 known ant species, slave-making has been recorded in only 50. Of the 21 sub-families known in the ants, only two have slaves. Five different subgroups of slave-making ants belong to a relatively small group, Formicoxenini.
 
 Foitzik thinks there might be more out there. In 2014 her team described a new American slave-maker species called Temnothorax pilagens. "We found it in Michigan, Vermont and New York, even though one would think that the ant fauna of the US is well studied."
 
@@ -85,4 +85,4 @@ Many slave-makers are closely related to their host species and share chemical s
 
 Meanwhile, the host species tend to create relatively dense and well-defended nests.
 
-xample, Temnothorax hosts are common in temperate forests. These are up to 10 slots per nests meter – mostly under fragile areas or stones, such as nuts and plank cavities. Each colony has only a few people, so it can easily be divided into many small nests - but it also matures to be collected by the slave-makers.
+Example, Temnothorax hosts are common in temperate forests. These are up to 10 slots per nests meter – mostly under fragile areas or stones, such as nuts and plank cavities. Each colony has only a few people, so it can easily be divided into many small nests - but it also matures to be collected by the slave-makers.
