@@ -2,11 +2,11 @@
 layout: single
 title: "Which force deflects air to right in northern hemisphere? Exactly coriolis force"
 ---
+In physics, Coriolis force is an inertial force acting on objects moving in a rotating reference frame according to an inertial frame. In a reference frame with clockwise rotation, the force acts to the left of the object's movement.
+
 ![image](https://upload.wikimedia.org/wikipedia/commons/b/b6/Corioliskraftanimation.gif)*Wikimedia Commons*
 
 In one with anticlockwise (or counterclockwise) rotation, the force acts to the right. Deflection of an object due to the Coriolis force is called the Coriolis effect. Though recognized previously by others, the mathematical expression for the Coriolis force appeared in an 1835 paper by French scientist Gaspard-Gustave de Coriolis, in connection with the theory of water wheels. Early in the 20th century, the term Coriolis force began to be used in connection with meteorology.
-
-Coriolis force in physics is an inertial force acting on objects moving in a reference frame rotating according to an inertial frame. In a reference frame with clockwise rotation, the force acts to the left of the motion of the object. Turning counterclockwise (or counter-clockwise) the force acts to the right. The deviation of an object due to Coriolis force is called the Coriolis effect.
 
 ![image](https://upload.wikimedia.org/wikipedia/commons/a/ad/Dechales-Coriolis-Cannon.jpg)*Wikimedia Commons*
 
