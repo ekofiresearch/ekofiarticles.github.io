@@ -1,6 +1,6 @@
 ---
 layout: single
-title: ""
+title: "Which force deflects air to right in northern hemisphere? Exactly coriolis force"
 ---
 ![image](https://upload.wikimedia.org/wikipedia/commons/b/b6/Corioliskraftanimation.gif)*Wikimedia Commons*
 
