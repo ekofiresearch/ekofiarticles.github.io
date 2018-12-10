@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "When your face touches the water, your heart rate drops: Mammalian Diving Reflex"
+title: "When your face touches cool water, your heart rate drops: Mammalian Diving Reflex"
 ---
 ![image](https://i.hizliresim.com/5a8ZDl.jpg)
 
