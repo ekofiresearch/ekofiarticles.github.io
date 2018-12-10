@@ -48,6 +48,8 @@ Despite the majority of mammals, we are losing most of the biological bonds that
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+How is it triggered?
+-
 It’s triggered when a mammal’s face comes in contact with or is submerged in cool water. When this occurs, receptors are activated within the nasal and sinus cavities as well as areas in the face connected to the trigeminal nerve. The information the face encounters with water is transmitted to the brain and to the autonomic nervous system via the vagal nerve, which leads to immediate closure of the airway and at the same time a series of physiological changes to optimize the body's protection of oxygen. The reflex includes four processes that are triggered in turn:
 
 1. Bradycardia
