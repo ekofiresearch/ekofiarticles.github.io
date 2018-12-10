@@ -8,7 +8,8 @@ In physics, Coriolis force is an inertial force acting on objects moving in a ro
 
 In one with anticlockwise (or counterclockwise) rotation, the force acts to the right. Deflection of an object due to the Coriolis force is called the Coriolis effect. Though recognized previously by others, the mathematical expression for the Coriolis force appeared in an 1835 paper by French scientist Gaspard-Gustave de Coriolis, in connection with the theory of water wheels. Early in the 20th century, the term Coriolis force began to be used in connection with meteorology.
 
-![image](https://upload.wikimedia.org/wikipedia/commons/a/ad/Dechales-Coriolis-Cannon.jpg)*Image from Cursus seu Mundus Mathematicus (1674) of C.F.M. Dechales, showing how a cannonball should deflect to the right of its target on a rotating Earth, because the rightward motion of the ball is faster than that of the tower*
+![image](https://upload.wikimedia.org/wikipedia/commons/a/ad/Dechales-Coriolis-Cannon.jpg)
+*Image from Cursus seu Mundus Mathematicus (1674) of C.F.M. Dechales, showing how a cannonball should deflect to the right of its target on a rotating Earth, because the rightward motion of the ball is faster than that of the tower*
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
