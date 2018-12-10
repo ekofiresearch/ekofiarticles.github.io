@@ -80,3 +80,5 @@ It’s triggered when a mammal’s face comes in contact with or is submerged in
 4. Splenic contraction
 -
 - As part of the diving reflex, the spleen will experience contractions when a diver is subjected to the atmospheric pressures of depth. Typically, the spleen acts as a reservoir for large blood volumes circulating within it and, in connection with the blood volumes required by the blood exchange discussed above, blood will flow into the spleen and then give blood to the circulatory system. The additional volume of blood that enters the body as a result of the splenic contraction will not only increase the amount of oxygen available to the system but also help to increase the supportive fluid capabilities of the blood in the body’s lungs and other organs.
+
+<p class="notice--info"><strong>Sources:</strong> https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3768097/, https://en.wikipedia.org/wiki/Diving_reflex</p>
