@@ -4,7 +4,7 @@ title: "Why black holes are the most efficient way to convert mass into energy?"
 ---
 What does e equals mc squared mean?
 -
-In physics, the mass-energy equivalence states that everything with mass has an equal amount of energy, and vice versa, with these basic quantities directly related to Albert Einstein's famous formula: ** e = mc² **
+In physics, the mass-energy equivalence states that everything with mass has an equal amount of energy, and vice versa, with these basic quantities directly related to Albert Einstein's famous formula: **e = mc²**
 
 So, anything with mass, possesses a huge amount of energy.
 
@@ -54,7 +54,6 @@ Possible ways to extract energy from black holes: Extracting mass-energy from in
 
 ![image](https://images.unsplash.com/photo-1504192010706-dd7f569ee2be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80)
 - **Rotational energy**. The efficient way to extract energy from a black hole is to extract its rotational energy. 20% 1 of a (rotating) black hole's mass-energy is in the form of rotational energy. This energy is not stored inside the black hole, rather it is stored in the swirl of space outside the black hole (in the Ergosphere). We can extract this energy by threading magnetic filled lines through the black hole. The swirl of space swirls the magnetic fields, and this swirl creates current (I'm not sure of the exact treatment of this, classically it would be some form of electromagnetic induction, but this isn't classical physics.). The current flows along the field lines and can be picked up.
-
 
 ![image](https://laughingsquid.com/wp-content/uploads/2018/04/black-hole-mirror.png)*Kurzgesagt – In a Nutshell*
 - **Black hole bomb**. Much like you'd build a Dyson sphere around a star to harness its energy, you could theoretically construct a giant mirror ball to contain a black hole. Then, you'd remove part of the mirror, shoot electromagnetic waves inside and let them bounce around for a while. 
