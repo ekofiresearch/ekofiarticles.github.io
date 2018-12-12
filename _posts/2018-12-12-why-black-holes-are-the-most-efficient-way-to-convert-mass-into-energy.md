@@ -16,6 +16,17 @@ Nuclear fission plants produce only 0.08% of the potential energy of the mass us
 
 That even a small amount of mass can produce a lot of energy.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 In fact, it is extremely difficult to obtain energy from the mass. There are several methods for this, but even those who seem to us extremely strong, such as nuclear fission or fusion, convert only a small fraction of the potential mass (respectively .08% and .7%)
 
 Apart from using the extremely rare antimatter in the universe, the most effective way to remove the energy of mass is to lower the mass into a black hole. Black holes are extremely small. But, it contains an amazing gravitational force. Something came out of a black hole? No, I don't think so. The black hole is the space-time zone that exhibits such powerful gravitational effects - nothing can escape even through electromagnetic radiation such as particles and light.  Think about a meteor entering the Earth's atmosphere - it burns out because it accelerates the entrance by releasing the energy. Now imagine that this object traveling exponentially faster, leaving the energy in the universe without falling into blackness forever.
@@ -26,10 +37,26 @@ None of this makes any sense in places where we emerge from the substance using 
 
 Possible ways to extract energy from black holes: Extracting mass-energy from inside the black hole
 -
-- ** Dyson sphere **. A Dyson sphere is a hypothetical mega structure that completely surrounds a star and captures a large percentage of its power output. This concept is a thought experiment that tries to explain how a spaceship meets the energy needs of a spaceship when it exceeds the values that can only be obtained from its own resources. Only a portion of a star's energy release reaches the surface of any orbiting planet. The structure structures surrounding a star provide a civilization with much more energy.
 
-- ** Rotational energy **. The efficient way to extract energy from a black hole is to extract its rotational energy. 20% 1 of a (rotating) black hole's mass-energy is in the form of rotational energy. This energy is not stored inside the black hole, rather it is stored in the swirl of space outside the black hole (in the Ergosphere). We can extract this energy by threading magnetic filled lines through the black hole. The swirl of space swirls the magnetic fields, and this swirl creates current (I'm not sure of the exact treatment of this, classically it would be some form of electromagnetic induction, but this isn't classical physics.). The current flows along the field lines and can be picked up.
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
-- ** Black hole bomb **. Much like you'd build a Dyson sphere around a star to harness its energy, you could theoretically construct a giant mirror ball to contain a black hole. Then, you'd remove part of the mirror, shoot electromagnetic waves inside and let them bounce around for a while. 
+![image](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Dyson_Ring.png/800px-Dyson_Ring.png)*Wikimedia Commons - Dyson Ring*
+- **Dyson sphere**. A Dyson sphere is a hypothetical mega structure that completely surrounds a star and captures a large percentage of its power output. This concept is a thought experiment that tries to explain how a spaceship meets the energy needs of a spaceship when it exceeds the values that can only be obtained from its own resources. Only a portion of a star's energy release reaches the surface of any orbiting planet. The structure structures surrounding a star provide a civilization with much more energy.
 
-It doesn't have to explode — you could use it as an near-endless source of power.
+![image](https://images.unsplash.com/photo-1504192010706-dd7f569ee2be?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80)
+- **Rotational energy**. The efficient way to extract energy from a black hole is to extract its rotational energy. 20% 1 of a (rotating) black hole's mass-energy is in the form of rotational energy. This energy is not stored inside the black hole, rather it is stored in the swirl of space outside the black hole (in the Ergosphere). We can extract this energy by threading magnetic filled lines through the black hole. The swirl of space swirls the magnetic fields, and this swirl creates current (I'm not sure of the exact treatment of this, classically it would be some form of electromagnetic induction, but this isn't classical physics.). The current flows along the field lines and can be picked up.
+
+
+![image](https://laughingsquid.com/wp-content/uploads/2018/04/black-hole-mirror.png)*Kurzgesagt – In a Nutshell*
+- **Black hole bomb**. Much like you'd build a Dyson sphere around a star to harness its energy, you could theoretically construct a giant mirror ball to contain a black hole. Then, you'd remove part of the mirror, shoot electromagnetic waves inside and let them bounce around for a while. 
+
+It doesn't have to explode :) — you could use it as an near-endless source of power.
