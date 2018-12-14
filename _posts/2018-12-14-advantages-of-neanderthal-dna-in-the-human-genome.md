@@ -63,7 +63,7 @@ The results provide new clues about one particular route of human evolution. “
 
 Capra agreed. “We are seeing enough of the signature of introgression in human genomes that we really need to integrate it into our models of evolution and selection.”
 
-That are the list of some pros and cons:
+That are the list of some pros and cons of Neanderthal / Denisovan genes, the immunity gene is one of them:
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
