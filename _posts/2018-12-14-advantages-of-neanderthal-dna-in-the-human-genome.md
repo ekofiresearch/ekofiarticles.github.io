@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "If you have Neanderthal gene, that gene can boost your immune systems and help protect against infections"
---
+---
 According to the genomists, the crossing of Neanderthals and Denisovs with Homo sapiens has shown that Neanderthal inherited alleles have an advantage in various modern human genomes. The results show that these alleles - mostly within immune and skin pigmentation genes - help modern humans adapt to life outside Africa.
 
 “The study expands our knowledge of the extent to which Neanderthals and Denisovans contributed functionally relevant genetic variation to modern humans” Svante Pääbo, an evolutionary geneticist at the Max Planck Institute for Evolutionary Anthropology in Germany, who was not involved in the work, wrote in an email to The Scientist. “It shows that the contribution [of hominin DNA] is substantial and is larger than I assumed when we first discovered that these extinct hominins had mixed with modern human ancestors.”
@@ -76,13 +76,13 @@ That are the list of some pros and cons:
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-- + The immunity gene: HLA is a gene that helps white blood cells destroy micro-organism attackers in our bodies.
+- The immunity gene: HLA is a gene that helps white blood cells destroy micro-organism attackers in our bodies.
 
 At least one version of HLA is basically absent in Sub-Saharan people. Researchers believe people carrying this gene can thank Neanderthals and Denisovans for it. These hominids had already adapted to infections and diseases found outside Africa. This gene gave any modern humans born with some Neanderthal and Denisovan ancestry a survival advantage.
 
 European people get more than 50 percent of one HLA genetic variant from Neanderthal and Denisovan ancestors. For Asian people it’s as much as 80 percent, and Papua New Guineans 95 percent.
 
-- + The hair and skin gene: Genes for keratin – the protein in our skin, hair and nails – can have a particularly strong Neanderthal influence. Two-thirds of East Asian people have the Neanderthal skin gene POU2F3, about almost three-quarters of European people have the Neanderthal skin-color gene BNC2.
+- The hair and skin gene: Genes for keratin – the protein in our skin, hair and nails – can have a particularly strong Neanderthal influence. Two-thirds of East Asian people have the Neanderthal skin gene POU2F3, about almost three-quarters of European people have the Neanderthal skin-color gene BNC2.
 
 We do not know exactly what these genes offer to people, but the persistence of these genes demonstrates a strong support for survival. It is possible that Neanderthal adaptations against cold air encoded in these genes are important.
 
