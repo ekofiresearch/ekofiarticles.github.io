@@ -6,6 +6,13 @@ Fungus living in the walls of a failed nuclear reactor in Chernobyl was found wi
 
 ![image](https://i.ibb.co/XDF4P6j/fungusblack.jpg)
 
+Black fungi were found on the walls of Chernobyl's damaged and high radioactive nuclear reactor by the robots sent to find the area. After that, scientists analyzed the fungus and found that it contains high levels of melanin, a pigment that is present in the human skin and that gives color and is protected from sun and ultraviolet radiation.
+
+Melanin is found in many types of mushrooms. Scientists say that melanin is found in the fungus and that humans are similar in chemical composition.
+Nuclear (and other high-energy) reactions reveal particles that can damage ionized radiation, dangerous rays, and genes, thereby causing mutations and ultimately cancer. However, they develop under the same conditions as fungi.
+
+Ekaterina Dadachova at the Albert Einstein College of Medicine explained the reason why fungi thrived in Chernobyl: She said just like pigment, chlorophyll converts sunlight into chemical energy that allows green plants to live and grow. Melanin helps the fungi to benefit and grow ionizing radiation.
+
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -16,13 +23,6 @@ Fungus living in the walls of a failed nuclear reactor in Chernobyl was found wi
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-Black fungi were found on the walls of Chernobyl's damaged and high radioactive nuclear reactor by the robots sent to find the area. After that, scientists analyzed the fungus and found that it contains high levels of melanin, a pigment that is present in the human skin and that gives color and is protected from sun and ultraviolet radiation.
-
-Melanin is found in many types of mushrooms. Scientists say that melanin is found in the fungus and that humans are similar in chemical composition.
-Nuclear (and other high-energy) reactions reveal particles that can damage ionized radiation, dangerous rays, and genes, thereby causing mutations and ultimately cancer. However, they develop under the same conditions as fungi.
-
-Ekaterina Dadachova at the Albert Einstein College of Medicine explained the reason why fungi thrived in Chernobyl: She said just like pigment, chlorophyll converts sunlight into chemical energy that allows green plants to live and grow. Melanin helps the fungi to benefit and grow ionizing radiation.
 
 Researcher Arturo Casadevall, an immunologist at the Albert Einstein College of Medicine in New York said to LiveScience.
 "In general we think of radiation as something bad or harmful. Here we have a situation where these fungi appear to benefit, which is unexpected"
@@ -41,10 +41,6 @@ Mushrooms are radiation tolerant and accumulate radionuclides
 
 Anyone who follows radiation measurements of foods in Chernobyl and Japan knows that the worst radioactive contamination in any foodstuff is in the fungus. Mushrooms are very efficient in absorbing radionuclides. They actually eat something.
 
-Radionuclides accumulate in tree barks
--
-[Researchers in Turkey found that](https://www.ncbi.nlm.nih.gov/pubmed/20678943) cesium-137 (from Chernobyl) accumulates more in oak bark than even lichen (which had been thought to be the most contaminated life form). Professor Mori of the WINEP blog showed an autoradiograph of how radionuclides were found in oak bark. Many mushroom species grow on these barks.
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -55,6 +51,10 @@ Radionuclides accumulate in tree barks
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+Radionuclides accumulate in tree barks
+-
+[Researchers in Turkey found that](https://www.ncbi.nlm.nih.gov/pubmed/20678943) cesium-137 (from Chernobyl) accumulates more in oak bark than even lichen (which had been thought to be the most contaminated life form). Professor Mori of the WINEP blog showed an autoradiograph of how radionuclides were found in oak bark. Many mushroom species grow on these barks.
 
 As LiveScience reports:
 
