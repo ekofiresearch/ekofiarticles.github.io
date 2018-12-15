@@ -6,7 +6,7 @@ According to the genomists, the crossing of Neanderthals and Denisovs with Homo 
 
 “The study expands our knowledge of the extent to which Neanderthals and Denisovans contributed functionally relevant genetic variation to modern humans” Svante Pääbo, an evolutionary geneticist at the Max Planck Institute for Evolutionary Anthropology in Germany, who was not involved in the work, wrote in an email to The Scientist. “It shows that the contribution [of hominin DNA] is substantial and is larger than I assumed when we first discovered that these extinct hominins had mixed with modern human ancestors.”
 
-![image](https://www.sciencedaily.com/images/2018/12/181213142153_1_900x600.jpg)*Neandertal fossil (left) with a typical elongated endocranial imprint (red) and a CT scan of a modern human (right) showing the characteristic globular endocranial shape (blue). Credit: Rodrigo S Lacruz*
+![image](https://images.unsplash.com/photo-1453847668862-487637052f8a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80)
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -40,6 +40,8 @@ For the present study, Joshua Akey, an evolutionary and computational biologist 
 
 While individuals of Melanesian ancestry typically retain mostly Denisovan sequences, in the current analysis, the researchers found that 59 percent of the loci in these individuals were Neanderthal in origin.
 
+![image](https://images.unsplash.com/photo-1521198807864-bc8cfc485949?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80)
+
 The 126 loci—including seven previously identified—corresponded to seven genes involved in skin pigmentation and 31 genes that function in immunity. Each locus had a median length of about 81 kilobases. And 80 percent of the loci mapped to regulatory rather than coding regions. “We know that mutations that modulate gene expression are very important for driving divergence between closely related populations and species. But before this study, it was not clear how often introgressed alleles would exert their effects in this way,” Capra told The Scientist.
 
 Analyzing the expression levels of genes associated with the 126 loci, the team found that 13 of the sites varied the expression of 34 genes across different tissue types. One locus resulted in significantly increased expression of a Toll-like receptor (TLR) gene cluster involved in innate immunity in lymphoblast cell lines, and lower expression in primary B cells and fibroblasts. The team tested whether this differential expression was a result of different levels of innate immune system activation. Using whole blood samples from healthy volunteers, they showed that those individuals with Neanderthal-derived TLR alleles could be specifically activated with a TLR4 agonist within immune cells.
@@ -60,6 +62,8 @@ Analyzing the expression levels of genes associated with the 126 loci, the team 
 “It’s interesting to see that, like alleles that arise by other evolutionary mechanisms, adaptive introgression appears to commonly influence gene expression,” said Capra.
 
 The results provide new clues about one particular route of human evolution. “Instead of waiting for a new beneficial mutation, we can just pick one up by hybridizing with a population that was already adapted to this new environment,” said Akey. “Finding advantageous genes inherited from archaic humans also shows that hybridization was not just some side note to human history, but had important consequences that we can still see in present day individuals.”
+
+![image](https://www.lakeandsumterstyle.com/wp-content/uploads/2018/08/dna-3539309_1920.jpg)
 
 Capra agreed. “We are seeing enough of the signature of introgression in human genomes that we really need to integrate it into our models of evolution and selection.”
 
@@ -102,9 +106,7 @@ We do not know exactly what these genes offer to people, but the persistence of 
 The DNAs of Homo Sapiens and Neanderthals were not very well mixed. Long, long human DNA extensions do not have the Neanderthal gene at all. This shows that genetic changes in these regions are negative for survival.
 For example, there is no Neanderthal entry of FOXP2 gene for motor coordination and language and speech.
 
-Large regions of human DNA have no Neanderthal input
-
-![image](https://www.lakeandsumterstyle.com/wp-content/uploads/2018/08/dna-3539309_1920.jpg)*Neanderthal input is entirely absent from large sections of the human DNA molecule.*
+Large regions of human DNA have no Neanderthal input.
 
 Furthermore, human male X chromosomes are particularly lacking in Neanderthal input, meaning there’s a good chance that male children of a Human-Neanderthal union had lower fertility than average.
 
