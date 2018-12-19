@@ -19,7 +19,7 @@ Researchers produced dust from factories and power plants as they could catch CO
 
 Powder can help reduce CO2 emissions
 -
-Scientists at the University of Waterloo] (https://uwaterloo.ca/news/news/new-powder-could-help-cut-co2-emissions) produced a powder that could capture CO2 from factories and power plants.
+[Scientists at the University of Waterloo](https://uwaterloo.ca/news/news/new-powder-could-help-cut-co2-emissions) produced a powder that could capture CO2 from factories and power plants.
 
 Zhongwei Chen, a professor of chemical engineering at Waterloo, can filter out CO2 in fossil fuel-fired plants before being released into the atmosphere and is twice as efficient as traditional methods.
 
