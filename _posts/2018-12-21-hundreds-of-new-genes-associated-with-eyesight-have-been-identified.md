@@ -47,3 +47,5 @@ The total number of genes associated with eye anatomy and function is much highe
 From this research, it was possible to look at the relationships between eye phenotypes and systemic abnormalities, as extensive organotyping of all organ systems was made as part of the IMPC project. For example, several genes described in this study have been found to be associated with kidney disease in knockouts. This highlights the IMPC's broad-based approach as an effective way to allow in-depth associations for specific genes and diseases.
 
 In addition to bringing a new perspective to gene function and pathways for hereditary eye diseases, this study is also a platform where future studies can contribute to our understanding of complex human eye disorders. For example, in patients with rare hereditary ocular diseases, geneticists may screen all genome sequencing data of individuals to see if vision loss is linked to the genes identified in this study.
+
+<p class="notice--info"><strong>Citations: </strong><a href="https://www.nature.com/articles/s42003-018-0226-0">https://www.nature.com/articles/s42003-018-0226-0</a></p>
