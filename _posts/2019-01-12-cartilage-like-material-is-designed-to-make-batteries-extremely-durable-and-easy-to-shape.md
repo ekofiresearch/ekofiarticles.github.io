@@ -8,7 +8,7 @@ The idea behind the structural batteries is to store energy in structural compon
 
 In a study published in ACS Nano, researchers describe how they make a battery-resistant, rechargeable zinc battery with a solid electrolyte like cartilage. They showed that batteries could change the upper case of a few commercial aircraft. Prototype cells can operate at more than 100 cycles of 90 percent capacity and can withstand severe impacts and can even withstand stabbing without losing voltage or causing a fire.
 
-It A battery with a structural component must be light, strong, safe and of high capacity. Unfortunately, these requirements are often mutually exclusive requirements Joseph, said Joseph B. and Florence V. Cejka Engineering Professor Nicholas Kotov.
+"A battery that is also a structural component has to be light, strong, safe and have high capacity. Unfortunately, these requirements are often mutually exclusive," said Nicholas Kotov, the Joseph B. and Florence V. Cejka Professor of Engineering, who led the research.
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
@@ -28,7 +28,7 @@ To prevent these changes, the researchers used branched nanofibers that were sim
 ![image](https://news.umich.edu/wp-content/uploads/mc-image-cache/2019/01/cartilage-could-be-key-to-safe-structural-batteries-HANDS.jpg)
 *Ahmet Emrehan Emre, PhD candidate in biomedical engineering, poured a manganese oxide slurry onto an aluminum foil to function as a prototype structural catheter. Credit: Evan Dougherty, Michigan Engineering*
 
-Dı There are no zinc batteries in nature, but they had to solve a similar problem, Kot Kotov said. Çıktı The cartilage proved to be the perfect prototype for an ion-bearing material in the batteries. He has incredible mechanics, and he's been serving us very long, depending on how thin. The same characteristics are required from solid electrolytes separating cathodes and anodes in batteries. P
+"Nature does not have zinc batteries, but it had to solve a similar problem," Kotov said. "Cartilage turned out to be a perfect prototype for an ion-transporting material in batteries. It has amazing mechanics, and it serves us for a very long time compared to how thin it is. The same qualities are needed from solid electrolytes separating cathodes and anodes in batteries."
 
 It combines mechanical strength and durability with the ability to allow cartilage, water, nutrients and other materials to pass through our bodies. These qualities are almost identical to a good solid electrolyte that has to resist damaging the dendrites while allowing ions to flow from one electrode to another.
 
