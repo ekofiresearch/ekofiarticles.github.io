@@ -38,16 +38,16 @@ The main findings of the study were the newly identified strain of Streptomyces:
 It inhibited the growth of four of the first six highly resistant pathogens identified by WHO as responsible for health-related infections.
 It also inhibited both gram-positive and gram-negative bacteria, which were different in the structure of the cell walls; Generally, gram-negative bacteria are more resistant to antibiotics
 
-<script async src = "// pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"> </ script>
-<ins class = "adsbygoogle"
-     style = "display: block; text-align: center;"
-     data-layout-name = "in-article"
-     data-ad-format = "fluid"
-     data-ad-client = "ca-pub-7868661326160958"
-     data-ad-slot = "3072558811"> </ ins>
-<Script>
-     (adsbygoogle = window.adsbygoogle || []). push ({});
-</ Script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-7868661326160958"
+     data-ad-slot="3072558811"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 It is not yet clear which component of the new strain prevents the growth of pathogens, but researchers are investigating it.
 
