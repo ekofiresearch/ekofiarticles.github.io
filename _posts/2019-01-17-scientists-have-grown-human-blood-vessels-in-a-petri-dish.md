@@ -26,9 +26,9 @@ The breakthrough engineering technology, outlined in a recent study published in
 
 A organoid is a three-dimensional structure that grows from stem cells that mimic an organ and can be used to study the properties of this organ in a petri dish.
 
-Josef Penninger, director of the UBC Institute of Life Sciences and co-director of the Institute's founding director, Functional Genetic Research Chief, Canada, leri A game changer to build human blood vessels as organoids from stem cells BC
+“Being able to build human blood vessels as organoids from stem cells is a game changer,” said the study’s senior author Josef Penninger, the Canada 150 Research Chair in Functional Genetics, director of the Life Sciences Institute at UBC and founding director of the Institute for Molecular Biotechnology of the Austrian Academy of Sciences (IMBA).
 
-Daki Every organ in our body is associated with the circulatory system. This may help researchers to solve the causes and treatments of various vascular diseases such as Alzheimer's disease, cardiovascular diseases, wound healing problems, stroke, cancer and of course diabetes. Bu
+“Every single organ in our body is linked with the circulatory system. This could potentially allow researchers to unravel the causes and treatments for a variety of vascular diseases, from Alzheimer’s disease, cardiovascular diseases, wound healing problems, stroke, cancer and, of course, diabetes.”
 
 Diabetes affects approximately 420 million people worldwide. Most of the diabetic symptoms lead to changes in blood vessels, impaired blood circulation, and oxygen supply to the tissues. Despite its prevalence, little is known about vascular changes due to diabetes. This limitation has slowed the development of much-needed treatment.
 
@@ -43,7 +43,7 @@ Diabetes affects approximately 420 million people worldwide. Most of the diabeti
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-![image](https://news.ubc.ca/wp-content/uploads/2019/01/basment-membrane-1-768x636.jpg)
+![Membrane, blood vessel, vessel](https://news.ubc.ca/wp-content/uploads/2019/01/basment-membrane-1-768x636.jpg)
 *Base membrane*
 Diabetic blood vessel changes in patients and human vascular organoid. The base membrane (green) around the blood vessels (red) has greatly expanded in diabetic patients (white arrows). Human vascular organoids that are model diabetic o in the laboratory can now be used as a diabetic model to identify new treatments. Credits: IMBA
 
@@ -53,7 +53,7 @@ To solve this problem, Penninger and his colleagues developed a groundbreaking m
 
 When the researchers transferred blood vessel organoids to the mice, they discovered that they became excellent functional human blood vessels, including arteries and capillaries. This discovery shows that it is possible to grow not only blood vessel organocytes from human stem cells in a container, but also a functional human vascular system of another type.
 
-Am What's exciting about our work is that we've been successful in removing real human blood vessels from stem cells, gerçek said Reiner Wimmer, the first author and post-doctoral research fellow at the IMBA. ”Our organoids are substantially similar to human capillaries, even at the molecular level, and now we can use them to study blood vessel diseases directly in human tissue.“
+“What is so exciting about our work is that we were successful in making real human blood vessels out of stem cells,” said Reiner Wimmer, the study’s first author and a postdoctoral research fellow at IMBA. “Our organoids resemble human capillaries to a great extent, even on a molecular level, and we can now use them to study blood vessel diseases directly on human tissue.”
 
 One feature of diabetes is that the blood vessels show abnormal thickening of the basal membrane. Consequently, delivery of oxygen and nutrients to cells and tissues is severely impaired and causes a number of health problems leading to amputations such as renal failure, heart attack, stroke, blindness and peripheral artery disease.
 
@@ -70,3 +70,4 @@ One feature of diabetes is that the blood vessels show abnormal thickening of th
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+<p class="notice--info"><strong>Credit: </strong><a href="https://news.ubc.ca/2019/01/16/scientists-grow-perfect-human-blood-vessels-in-a-petri-dish/">https://news.ubc.ca/2019/01/16/scientists-grow-perfect-human-blood-vessels-in-a-petri-dish/</a></p>
