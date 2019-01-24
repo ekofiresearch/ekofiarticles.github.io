@@ -53,12 +53,6 @@ To solve this problem, Penninger and his colleagues developed a groundbreaking m
 
 When the researchers transferred blood vessel organoids to the mice, they discovered that they became excellent functional human blood vessels, including arteries and capillaries. This discovery shows that it is possible to grow not only blood vessel organocytes from human stem cells in a container, but also a functional human vascular system of another type.
 
-“What is so exciting about our work is that we were successful in making real human blood vessels out of stem cells,” said Reiner Wimmer, the study’s first author and a postdoctoral research fellow at IMBA. “Our organoids resemble human capillaries to a great extent, even on a molecular level, and we can now use them to study blood vessel diseases directly on human tissue.”
-
-One feature of diabetes is that the blood vessels show abnormal thickening of the basal membrane. Consequently, delivery of oxygen and nutrients to cells and tissues is severely impaired and causes a number of health problems leading to amputations such as renal failure, heart attack, stroke, blindness and peripheral artery disease.
-
-<p class="notice--warning"><a href="https://discord.gg/9YEgb6N"><strong>Recommended: </strong>Community</a></p>
-
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
      style="display:block; text-align:center;"
@@ -69,5 +63,11 @@ One feature of diabetes is that the blood vessels show abnormal thickening of th
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+“What is so exciting about our work is that we were successful in making real human blood vessels out of stem cells,” said Reiner Wimmer, the study’s first author and a postdoctoral research fellow at IMBA. “Our organoids resemble human capillaries to a great extent, even on a molecular level, and we can now use them to study blood vessel diseases directly on human tissue.”
+
+One feature of diabetes is that the blood vessels show abnormal thickening of the basal membrane. Consequently, delivery of oxygen and nutrients to cells and tissues is severely impaired and causes a number of health problems leading to amputations such as renal failure, heart attack, stroke, blindness and peripheral artery disease.
+
+<p class="notice--warning"><a href="https://discord.gg/9YEgb6N"><strong>Recommended: </strong>Community</a></p>
 
 <p class="notice--info"><strong>Credit: </strong><a href="https://news.ubc.ca/2019/01/16/scientists-grow-perfect-human-blood-vessels-in-a-petri-dish/">https://news.ubc.ca/2019/01/16/scientists-grow-perfect-human-blood-vessels-in-a-petri-dish/</a></p>
