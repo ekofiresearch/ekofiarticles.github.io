@@ -2,7 +2,7 @@
 layout: single
 title: "The groundbreaking new technique can turn plastic waste into energy-dense fuel"
 ---
-![laboratory, substance, chemistry, invention, new, plastic] (https://icdn5.digitaltrends.com/image/0022wanglab-720x720.jpg?ver=1.jpg)
+![laboratory, substance, chemistry, invention, new, plastic](https://icdn5.digitaltrends.com/image/0022wanglab-720x720.jpg?ver=1.jpg)
 <p class="notice--danger"><a>The world has plastic problem. According to the United Nations, <strong>more than 8 million tonnes </strong> plastic enters the oceans every year.</a></p>
 
 How to get rid of this problem has been the subject of much research. In order to help stain plastic clogged waterways from the sky, everything from reducing plastic use to packaging to using drones was emphasized. But researchers from Purdue University have a different idea: they want to turn it into fuel.
