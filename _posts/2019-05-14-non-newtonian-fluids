@@ -1,0 +1,16 @@
+---
+layout: single
+title: "About Non-Newtonian Fluids"
+---
+A non-Newtonian liquid is a fluid that doesn't follow Newton's viscosity law, ie, the constant viscosity independent of stress. In non-Newtonian fluids, the viscosity may change when more liquid or more solids are forced. Ketchup, for example, becomes more fluid when shaken and is therefore a non-Newtonian fluid. Many salt solutions and non-Newtonian fluids, such as molten polymer, custard, honey, toothpaste, starch suspensions, corn starch, dye, blood and commonly found substances such as shampoo.
+
+Most commonly, the viscosity of non-Newtonian fluids (gradual deformation with shear or stress stresses) depends on the shear rate or the shear rate history. Some non-Newtonian fluids with slip-independent viscosity still exhibit normal stress differences or other non-Newtonian behavior. In a Newtonian fluid, the relationship between shear stress and shear rate is linear through the original, the proportionality constant is the viscosity coefficient. In a non-Newtonian fluid, the relationship between shear stress and shear rate is different. The liquid may even show a time-dependent viscosity. Therefore, a constant viscosity coefficient cannot be defined.
+
+Although the concept of viscosity is widely used in fluid mechanics to characterize the sliding properties of fluid, the definition of non-Newtonian fluids may be inadequate. It is best examined with several other rheological properties associated with stress and strain rate tensors in many different flow conditions, such as oscillation shift or elongation flow, measured using different devices or rheometers. The tensor which is common in the properties area has been studied better by using valuable constituent equations.
+
+Simulating a Non-Newtonian Fluid Flow from a Bottle: Pouring Ketchup
+-
+![ketchup, newton, non-newtonian](https://cdn.comsol.com/wordpress/2013/04/pouring-ketchup-animation.gif)
+**Velocity magnitude animation from 0.05 to 2 seconds.**
+
+Tags: <a class="btn btn--primary">Physics</a> <a class="btn btn--primary">Newton</a>
