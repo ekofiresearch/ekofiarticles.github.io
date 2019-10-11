@@ -5,14 +5,14 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
-minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-EN"
-title                    : "Ekofi Research"
+title                    : "Ekofi Research - Science News"
 title_separator          : "-"
 name                     : "Ekofi Research"
-description              : "Every dream is a world."
+description              : "Browse the latest scientific news and learn about the most interesting and wonderful content."
 url                      : 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
