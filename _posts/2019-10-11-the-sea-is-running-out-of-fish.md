@@ -2,13 +2,13 @@
 layout: single
 title: "The sea is running out of fish! - Fish prices will rise"
 ---
-Source [National Geographic] (https://www.nationalgeographic.com/science/2019/10/sea-running-out-of-fish-despite-nations-pledges-to-stop/).
+Source [National Geographic](https://www.nationalgeographic.com/science/2019/10/sea-running-out-of-fish-despite-nations-pledges-to-stop/).
 
 Even the main countries that promise to reduce funding for fisheries cannot stop the rise of the seafood industry.
 
 Even if the countries try to stop fish in the sea is running out. Fish prices will rise.
 
-[Fish out of the sea] (https://images.unsplash.com/photo-1498654200943-1088dd4438ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+![Fish out of the sea](https://images.unsplash.com/photo-1498654200943-1088dd4438ae?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
 
 As global fish stocks are feeding hundreds of millions of people, countries are striving to conclude an international agreement that bans state subsidies that feed overfishing by the end of the year.
 
