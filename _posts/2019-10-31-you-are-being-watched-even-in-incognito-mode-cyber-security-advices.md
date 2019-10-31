@@ -1,0 +1,30 @@
+---
+title: "Even if you are in incognito mode, you are being monitored: Cyber security advices"
+layout: splash
+date: 2019-10-31T00:00:00-03:00
+header:
+  overlay_image: https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
+excerpt: "People who can monitor your online activities:<br>Your Internet service provider,<br>websites you visit,<br>your boss (if you're using business computer)."
+feature_row:
+  - image_path: /assets/images/vpn_img1.jpg
+    alt: "VPN saves you"
+    title: "Use VPN: Become a free eagle in your own tunnel"
+    excerpt: 'Whether you're in the browser's incognito mode, what you're doing can be tracked. Using VPN prevents you from monitoring.'
+    url: ""
+    btn_label: "Buy VPN now"
+    btn_class: "btn--primary"
+feature_row4:
+  - image_path: /assets/images/antivirus_img1.jpg
+    alt: "Antivirus saves you"
+    title: "Don't be an attack victim. There's cyber attacks all over the world."
+    excerpt: 'VPN prevents most Man in the middle attack.'
+    url: ""
+    btn_label: "Done"
+    btn_class: "btn--primary"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+{% include feature_row id="feature_row" type="left" %}
+
+{% include feature_row id="feature_row4" type="right" %}
