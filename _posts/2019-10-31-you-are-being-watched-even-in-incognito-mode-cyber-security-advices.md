@@ -9,14 +9,14 @@ feature_row:
   - image_path: /assets/images/vpn_img1.jpg
     alt: "VPN saves you"
     title: "Use VPN: Become a free eagle in your own tunnel"
-    excerpt: 'Whether you're in the browser's incognito mode, what you're doing can be tracked. Using VPN prevents you from monitoring.'
+    excerpt: 'Whether you are in the browser incognito mode, what you are doing can be tracked. Using VPN prevents you from monitoring.'
     url: ""
     btn_label: "Buy VPN now"
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/antivirus_img1.jpg
     alt: "Antivirus saves you"
-    title: "Don't be an attack victim. There's cyber attacks all over the world."
+    title: "Do not be an attack victim. There are cyber attacks all over the world."
     excerpt: 'VPN prevents most Man in the middle attack.'
     url: ""
     btn_label: "Done"
