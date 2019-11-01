@@ -10,7 +10,9 @@ feature_row:
     alt: "VPN saves you"
     title: "Use VPN: Become a free eagle in your own tunnel"
     excerpt: 'Whether you are in the browser incognito mode, what you are doing can be tracked. Using VPN prevents you from monitoring.'
-    url: ""
+    url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
+    btn_label: "NordVPN 1 year deal with 58% off for $5.00/mo"
+    btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/antivirus_img1.jpg
     alt: "VPN saves you"
