@@ -11,8 +11,6 @@ feature_row:
     title: "Use VPN: Become a free eagle in your own tunnel"
     excerpt: 'Whether you are in the browser incognito mode, what you are doing can be tracked. Using VPN prevents you from monitoring.'
     url: ""
-    btn_label: "Buy VPN now"
-    btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/antivirus_img1.jpg
     alt: "VPN saves you"
