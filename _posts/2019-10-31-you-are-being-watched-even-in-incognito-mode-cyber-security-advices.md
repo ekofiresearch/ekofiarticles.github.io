@@ -15,7 +15,7 @@ feature_row:
     btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/antivirus_img1.jpg
-    alt: "Antivirus saves you"
+    alt: "VPN saves you"
     title: "Do not be an attack victim. There are cyber attacks all over the world."
     excerpt: 'VPN prevents most Man in the middle attack.'
     url: ""
