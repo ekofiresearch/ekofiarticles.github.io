@@ -7,7 +7,7 @@ header:
   actions:
     - label: "Get it"
       url: "https://instagram.com/fsuaterdogan"
-excerpt: "Your Internet service provider, <br>websites you visit, <br>your boss (if you're using business computer).<br><a href='http://www.google.com'><button>Click me !</button></a>"
+excerpt: "Your Internet service provider, <br>websites you visit, <br>your boss (if you're using business computer)."
 feature_row:
   - image_path: /assets/images/vpn_img1.jpg
     alt: "VPN saves you"
