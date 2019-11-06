@@ -2,11 +2,12 @@
 title: "Even if you are in incognito mode, you are being monitored: Cyber security advices"
 layout: splash
 date: 2019-10-31T00:00:00-03:00
+permalink: /splash-page/
 header:
   overlay_image: https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
   actions:
-    - label: "Download"
-      url: "https://github.com/mmistakes/minimal-mistakes/"
+    - label: "Get it"
+      url: "https://instagram.com/fsuaterdogan"
 excerpt: "People who can monitor your online activities:<br>Your Internet service provider,<br>websites you visit,<br>your boss (if you're using business computer)."
 feature_row:
   - image_path: /assets/images/vpn_img1.jpg
