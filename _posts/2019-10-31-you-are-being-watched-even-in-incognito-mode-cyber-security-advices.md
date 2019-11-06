@@ -8,7 +8,8 @@ header:
     - label: "Get it"
       url: "https://instagram.com/fsuaterdogan"
 excerpt: "Your Internet service provider, <br>websites you visit, <br>your boss (if you're using business computer)."
-
+intro: 
+  - excerpt: 'People are spying on you.'
 feature_row:
   - image_path: /assets/images/vpn_img1.jpg
     alt: "VPN saves you"
@@ -25,7 +26,7 @@ feature_row4:
     url: ""
     btn_label: "Done"
     btn_class: "btn--primary"
- outro:
+outro:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
     title: "What is VPN?"
@@ -34,7 +35,7 @@ feature_row4:
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
     title: "Easy to use"
-    excerpt: "Just select the locations of servers, then turn it on. **That's it!**"
+    excerpt: "Just select the locations of servers, then turn it on. That's it!"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
