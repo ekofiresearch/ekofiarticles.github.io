@@ -1,8 +1,7 @@
 ---
-title: "Even if you are in incognito mode, you are being monitored: Cyber security advices"
+title: "You are being watched"
 layout: splash
 date: 2019-10-31T00:00:00-03:00
-permalink: /splash-page/
 header:
   overlay_image: https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
   actions:
