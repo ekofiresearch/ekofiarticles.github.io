@@ -18,37 +18,29 @@ feature_row:
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
     btn_label: "NordVPN 1 year deal with 58% off for $5.00/mo"
     btn_class: "btn--primary"
-feature_row4:
-  - image_path: /assets/images/antivirus_img1.jpg
-    alt: "VPN saves you"
-    title: "Do not be an attack victim. There are cyber attacks all over the world."
-    excerpt: 'VPN prevents most Man in the middle attack.'
-    url: ""
-    btn_label: "Done"
-    btn_class: "btn--primary"
 outro:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
     title: "What is VPN?"
-    excerpt: "A virtual private network (VPN) gives you online privacy by creating a private network from public internet connection"
+    excerpt: "A virtual private network (VPN) gives you online privacy by creating a private network from public internet connection."
+    url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
+    btn_label: "Get Now"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
-    alt: "placeholder image 2"
-    title: "Easy to use"
-    excerpt: "Just select the locations of servers, then turn it on. That's it!"
-    url: "#test-link"
-    btn_label: "Read More"
+    title: "Do not be an attack victim."
+    excerpt: "There are cyber attacks all over the world. VPN prevents most Man in the middle attack."
+    url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
+    btn_label: "Get Now"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Quick Connect"
-    excerpt: "Tap the Quick Connect button, and our smart algorithm will find the best possible server option for you at that moment."
+    title: "Easy to use"
+    excerpt: "Just select the locations of servers, then turn it on. That's it!"
+    url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
+    btn_label: "Get Now"
 ---
 
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row id="feature_row" type="left" %}
 
-{% include feature_row id="feature_row4" type="right" %}
 
 {% include feature_row id="outro" %}
 
