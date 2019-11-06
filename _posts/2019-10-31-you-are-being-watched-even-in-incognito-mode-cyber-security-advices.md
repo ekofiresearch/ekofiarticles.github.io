@@ -24,6 +24,7 @@ outro:
     excerpt: "A virtual private network (VPN) gives you online privacy by creating a private network from public internet connection."
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
     btn_label: "Get Now"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "Do not be an attack victim."
     excerpt: "There are cyber attacks all over the world. VPN prevents most Man in the middle attack."
@@ -35,6 +36,7 @@ outro:
     excerpt: "Just select the locations of servers, then turn it on. That's it!"
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
     btn_label: "Get Now"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
