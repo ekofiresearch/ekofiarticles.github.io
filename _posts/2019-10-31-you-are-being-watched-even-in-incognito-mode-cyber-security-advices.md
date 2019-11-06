@@ -1,5 +1,5 @@
 ---
-title: "You are being watched"
+title: "You are being watched by"
 layout: splash
 date: 2019-10-31T00:00:00-03:00
 header:
@@ -7,7 +7,7 @@ header:
   actions:
     - label: "Get it"
       url: "https://instagram.com/fsuaterdogan"
-excerpt: "People who can monitor your online activities:<br>Your Internet service provider,<br>websites you visit,<br>your boss (if you're using business computer)."
+excerpt: "Your Internet service provider, <br>websites you visit, <br>your boss (if you're using business computer)."
 feature_row:
   - image_path: /assets/images/vpn_img1.jpg
     alt: "VPN saves you"
