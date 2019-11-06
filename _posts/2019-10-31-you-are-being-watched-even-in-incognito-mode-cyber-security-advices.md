@@ -1,5 +1,5 @@
 ---
-title: "You are being watched by"
+title: "You are being watched: Get a VPN"
 layout: splash
 date: 2019-10-31T00:00:00-03:00
 header:
@@ -8,6 +8,8 @@ header:
     - label: "Get it"
       url: "https://instagram.com/fsuaterdogan"
 excerpt: "Your Internet service provider, <br>websites you visit, <br>your boss (if you're using business computer)."
+intro: 
+  - excerpt: 'People are spying on you.'
 feature_row:
   - image_path: /assets/images/vpn_img1.jpg
     alt: "VPN saves you"
@@ -24,6 +26,22 @@ feature_row4:
     url: ""
     btn_label: "Done"
     btn_class: "btn--primary"
+ outro:
+  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "What is VPN?"
+    excerpt: "A virtual private network (VPN) gives you online privacy by creating a private network from public internet connection"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
+    alt: "placeholder image 2"
+    title: "Easy to use"
+    excerpt: "Just select the locations of servers, then turn it on. **That's it!**"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Quick Connect"
+    excerpt: "Tap the Quick Connect button, and our smart algorithm will find the best possible server option for you at that moment."
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -31,6 +49,8 @@ feature_row4:
 {% include feature_row id="feature_row" type="left" %}
 
 {% include feature_row id="feature_row4" type="right" %}
+
+{% include feature_row id="outro" %}
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
