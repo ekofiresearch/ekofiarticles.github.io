@@ -3,6 +3,9 @@ title: "Even if you are in incognito mode, you are being monitored: Cyber securi
 layout: splash
 date: 2019-10-31T00:00:00-03:00
 header:
+  actions:
+    - label: "Download"
+      url: "https://github.com/mmistakes/minimal-mistakes/"
   overlay_image: https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
 excerpt: "People who can monitor your online activities:<br>Your Internet service provider,<br>websites you visit,<br>your boss (if you're using business computer)."
 feature_row:
