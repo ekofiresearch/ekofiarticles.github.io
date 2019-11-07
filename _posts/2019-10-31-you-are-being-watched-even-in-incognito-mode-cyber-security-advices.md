@@ -9,7 +9,7 @@ header:
       url: "https://instagram.com/fsuaterdogan"
 excerpt: "Your Internet service provider, websites you visit, && much more."
 intro: 
-  - excerpt: 'People are spying on you.<br><script type="text/javascript" src="//ipaddress.is/ipwidget.php?type=1&nogeo=1&nosys=1"></script>'
+  - excerpt: 'People are spying on you.'
 feature_row:
   - image_path: /assets/images/vpn_img1.jpg
     alt: "VPN saves you"
