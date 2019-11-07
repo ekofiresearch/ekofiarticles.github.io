@@ -7,6 +7,7 @@ header:
   actions:
     - label: "Get it"
       url: "https://instagram.com/fsuaterdogan"
+excerpt: "Your Internet service provider, <br>websites you visit, <br>your boss (if you're using business)."
 intro: 
   - excerpt: 'People are spying on you. Your Internet service provider, <br>websites you visit, <br>your boss (if you're using business computer).'
 feature_row:
