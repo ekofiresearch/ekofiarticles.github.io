@@ -1,13 +1,8 @@
 ---
-title: "You are being watched: Get a VPN"
+title: "You are being traced! Get a VPN"
 layout: splash
 date: 2019-10-31T00:00:00-03:00
-header:
-  overlay_image: https://images.unsplash.com/photo-1548092372-0d1bd40894a3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80
-  actions:
-    - label: "Get it"
-      url: "https://instagram.com/fsuaterdogan"
-excerpt: "Your Internet service provider, websites you visit, && much more."
+
 intro: 
   - excerpt: 'People are spying on you. We know that <br><script type="text/javascript" src="//ipaddress.is/ipwidget.php?type=1&nosys=1"></script>'
 feature_row:
