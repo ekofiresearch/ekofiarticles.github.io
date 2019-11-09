@@ -14,6 +14,7 @@ feature_row:
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
     btn_label: "NordVPN 1 year deal with 58% off for $5.00/mo"
     btn_class: "btn--primary"
+    btn_onclick: "gtag_report_conversion"
 outro:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     title: "<i class='fas fa-question'></i><br>What is VPN?"
@@ -39,7 +40,6 @@ outro:
 
 {% include feature_row id="feature_row" type="left" %}
 
-
 {% include feature_row id="outro" %}
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -52,3 +52,20 @@ outro:
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+
+<script>
+function gtag_report_conversion(url) {
+  var callback = function () {
+    if (typeof(url) != 'undefined') {
+      window.location = url;
+    }
+  };
+  gtag('event', 'conversion', {
+      'send_to': 'AW-813527901/BUv-CPef8LIBEN3m9YMD',
+      'transaction_id': '',
+      'event_callback': callback
+  });
+  return false;
+}
+</script>
+
