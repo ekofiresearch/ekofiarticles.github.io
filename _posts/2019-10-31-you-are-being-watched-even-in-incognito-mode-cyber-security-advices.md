@@ -9,8 +9,7 @@ header:
       url: "https://instagram.com/fsuaterdogan"
 excerpt: "Your Internet service provider, websites you visit, && much more."
 intro: 
-  - excerpt: 'People are spying on you. We know that <script type="text/javascript" src="//ipaddress.is/js/ipwidget.js"></script>
-<script type="text/javascript">var ip_widget_var = ip_widget_var || [];ip_widget("#EEEEEE","#fcfcfc","#000000",0,0,473);</script>'
+  - excerpt: 'People are spying on you. We know that <script type="text/javascript" src="//ipaddress.is/ipwidget.php?type=1&nosys=1"></script>'
 feature_row:
   - image_path: /assets/images/vpn_img1.jpg
     alt: "VPN saves you"
