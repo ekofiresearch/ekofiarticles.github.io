@@ -16,19 +16,19 @@ feature_row:
     btn_class: "btn--primary"
 outro:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    title: "<i class='fas fa-question'></i> What is VPN?"
+    title: "<i class='fas fa-question'></i><br>What is VPN?"
     excerpt: "A virtual private network (VPN) gives you online privacy by creating a private network from public internet connection."
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
     btn_label: "Get Now"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    title: "<i class='fas fa-unlink'></i> Do not be an attack victim."
-    excerpt: "There are cyber attacks all over the world. VPN prevents most Man in the middle attack."
+    title: "<i class='fas fa-unlink'></i><br>Do not be an attack victim."
+    excerpt: "There are cyber attacks all over the world. Don't be a target. VPNs will protect against many Man in the middle attacks."
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
     btn_label: "Get Now"
     btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "<i class='fas fa-toggle-on'></i> Easy to use"
+    title: "<i class='fas fa-toggle-on'></i><br>Easy to use"
     excerpt: "Just select the locations of servers, then turn it on. That's it!"
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
     btn_label: "Get Now"
