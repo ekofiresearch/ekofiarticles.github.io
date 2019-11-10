@@ -14,7 +14,7 @@ feature_row:
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
     btn_label: "NordVPN 1 year deal with 58% off for $5.00/mo"
     btn_class: "btn--primary"
-    btn_onclick: "gtag_report_conversion"
+    btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
 outro:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     title: "<i class='fas fa-question'></i><br>What is VPN?"
