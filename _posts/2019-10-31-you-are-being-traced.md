@@ -22,18 +22,21 @@ outro:
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
     btn_label: "Get Now"
     btn_class: "btn--primary"
+    btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "<i class='fas fa-unlink'></i><br>Do not be an attack victim."
     excerpt: "There are cyber attacks all over the world. Don't be a target. VPNs will protect against many Man in the middle attacks."
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
     btn_label: "Get Now"
     btn_class: "btn--primary"
+    btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "<i class='fas fa-toggle-on'></i><br>Easy to use"
     excerpt: "Just select the locations of servers, then turn it on. That's it!"
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
     btn_label: "Get Now"
     btn_class: "btn--primary"
+    btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
 ---
 
 {% include feature_row id="intro" type="center" %}
