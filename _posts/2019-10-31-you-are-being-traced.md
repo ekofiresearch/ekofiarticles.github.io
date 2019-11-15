@@ -37,17 +37,6 @@ outro:
     btn_label: "Get Now"
     btn_class: "btn--primary"
     btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
-    
- outro1:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    title: "PCMag"
-    excerpt: "An Excellent VPN"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    title: "PCWorld"
-    excerpt: "NordVPN is a well-performing VPN with a great user interface, a good amount of respect for privacy and anonymity, and the advantage of accessing U.S. Netflix overseas."
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "ZDNet"
-    excerpt: "We like what we've seen of NordVPN, performance is generally good, and the company's attention to security and privacy seems sincere."
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -56,7 +45,6 @@ outro:
 
 {% include feature_row id="outro" %}
 
-{% include feature_row id="outro1" %}
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <ins class="adsbygoogle"
