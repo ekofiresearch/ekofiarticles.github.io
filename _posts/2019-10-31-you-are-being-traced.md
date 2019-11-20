@@ -39,8 +39,11 @@ outro:
     btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
 wecarinbro:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    title: "Any Question?"
+    title: "Any questions?"
     excerpt: "Contact us: proxima@ekofi.science"
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    title: "-"
+    excerpt: ""
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "We care about you."
     excerpt: "We are always with you. Give your thoughts in the comments section."
