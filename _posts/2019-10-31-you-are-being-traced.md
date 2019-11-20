@@ -68,7 +68,7 @@ function gtag_report_conversion(url) {
 }
 </script>
 
-{% include feature_row id="wecarinbro" type="center" %}
+{% include feature_row id="wecarinbro" %}
 
 {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
   {% include comments.html %}
