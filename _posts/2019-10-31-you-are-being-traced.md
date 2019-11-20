@@ -61,4 +61,7 @@ function gtag_report_conversion(url) {
 }
 </script>
 
+{% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
+  {% include comments.html %}
+{% endif %}
 
