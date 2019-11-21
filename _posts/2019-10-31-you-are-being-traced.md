@@ -41,12 +41,6 @@ wecarinbro:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "Any questions?"
     excerpt: "Contact us: proxima@ekofi.science"
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    title: "-"
-    excerpt: ""
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    title: "We care about you."
-    excerpt: "We are always with you. Give your thoughts in the comments section."
 ---
 
 {% include feature_row id="intro" type="center" %}
