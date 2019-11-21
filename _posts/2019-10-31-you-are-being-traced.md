@@ -20,26 +20,26 @@ outro:
     title: "<i class='fas fa-question'></i><br>What is VPN?"
     excerpt: "A virtual private network (VPN) gives you online privacy by creating a private network from public internet connection."
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
-    btn_label: "Get Now"
+    btn_label: "Get Now from NordVPN"
     btn_class: "btn--primary"
     btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     title: "<i class='fas fa-unlink'></i><br>Do not be an attack victim."
     excerpt: "There are cyber attacks all over the world. Don't be a target. VPNs will protect against many Man in the middle attacks."
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
-    btn_label: "Get Now"
+    btn_label: "Get Now from NordVPN"
     btn_class: "btn--primary"
     btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "<i class='fas fa-toggle-on'></i><br>Easy to use"
     excerpt: "Just select the locations of servers, then turn it on. That's it!"
     url: "http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML"
-    btn_label: "Get Now"
+    btn_label: "Get Now from NordVPN"
     btn_class: "btn--primary"
     btn_onclick: "gtag_report_conversion('http://www.dpbolvw.net/2174js0ys-FPHPPLPOFHJNLMIML')"
 wecarinbro:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    title: "Any questions?"
+    title: "Need help? We're always with you."
     excerpt: "Contact us: proxima@ekofi.science"
 ---
 
@@ -65,7 +65,7 @@ function gtag_report_conversion(url) {
 }
 </script>
 
-{% include feature_row id="wecarinbro" %}
+{% include feature_row id="wecarinbro" type="center" %}
 
 {% if jekyll.environment == 'production' and site.comments.provider and page.comments %}
   {% include comments.html %}
