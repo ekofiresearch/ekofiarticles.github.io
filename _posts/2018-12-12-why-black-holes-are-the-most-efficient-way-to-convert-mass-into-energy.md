@@ -9,6 +9,7 @@ In physics, the mass-energy equivalence states that everything with mass has an 
 So, anything with mass, possesses a huge amount of energy.
 
 ![image](https://images.unsplash.com/photo-1517925035435-7976539b920d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1355&q=80)
+Photo by [Fredography](https://fredography.be/)
 
 Why black holes are the most efficient way? - Nuclear fission plants  vs black holes
 -
