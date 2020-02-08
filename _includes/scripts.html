@@ -5,11 +5,11 @@
     {% else %}
       {% capture script_path %}{{ script | absolute_url }}{% endcapture %}
     {% endif %}
-    <script src="{{ script_path }}"></script>
+    <amp-script src="{{ script_path }}"></amp-script>
   {% endfor %}
 {% else %}
-  <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
-  <script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
+  <amp-script src="{{ '/assets/js/main.min.js' | absolute_url }}"></amp-script>
+  <amp-script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></amp-script>
 {% endif %}
 
 {% if site.search == true or page.layout == "search" %}
@@ -20,9 +20,9 @@
   {% else %}
     {% assign lang = "en" %}
   {% endcase %}
-  <script src="{{ '/assets/js/lunr/lunr.min.js' | absolute_url }}"></script>
-  <script src="{{ '/assets/js/lunr/lunr-store.js' | absolute_url }}"></script>
-  <script src="{{ '/assets/js/lunr/lunr-' | append: lang | append: '.js' | absolute_url }}"></script>
+  <amp-script src="{{ '/assets/js/lunr/lunr.min.js' | absolute_url }}"></amp-script>
+  <amp-script src="{{ '/assets/js/lunr/lunr-store.js' | absolute_url }}"></amp-script>
+  <amp-script src="{{ '/assets/js/lunr/lunr-' | append: lang | append: '.js' | absolute_url }}"></amp-script>
 {% endif %}
 
 {% include analytics.html %}
