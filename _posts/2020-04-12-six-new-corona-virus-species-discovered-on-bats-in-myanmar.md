@@ -16,7 +16,7 @@ According to the authors, newly discovered coronaviruses are not closely related
 
 Findings published in PLOS ONE today will help understand the diversity of coronaviruses in bats and inform global efforts **to identify, prevent and respond to infectious diseases that may threaten public health, especially in the light of the ongoing COVID-19 pandemic**.
 
-> "Viral pandemics remind us how closely human health is linked to wildlife and environmental health." - We can better reduce their pandemic potential."
+> "Viral pandemics remind us how closely human health is connected to the health of wildlife and the environment" - "Worldwide, humans are interacting with wildlife with increasing frequency, so the more we understand about these viruses in animals -- what allows them to mutate and how they spread to other species -- the better we can reduce their pandemic potential."
 
 <cite>Lead author of the study, former vet Marc Valitutto</cite>
 
@@ -36,6 +36,6 @@ Coronaviruses have caused widespread diseases in humans, including SARS CoV-1, M
 
 The authors point out that these findings highlight the importance of surveillance for wildlife in zoonotic diseases. The results will guide future surveillance of bat populations to better identify potential viral threats to public health.
 
-> "Many coronaviruses may not pose a risk to humans, but when we diagnose these diseases early in animals, we have a valuable opportunity to investigate the potential threat at the source." co-author of the study. "Vigilant surveillance, research and education are the best tools we need to prevent outbreaks before they occur."
+> "Many coronaviruses may not pose a risk to people, but when we identify these diseases early on in animals, at the source, we have a valuable opportunity to investigate the potential threat" "Vigilant surveillance, research and education are the best tools we have to prevent pandemics before they occur."
 
 <cite>Smithsonian's Global Health Program director Suzan Murray</cite>
