@@ -1,5 +1,5 @@
 ---
-title: "Six new corona virus species discovered in bats in Myanmar"
+title: "Six new corona virus species discovered on bats in Myanmar"
 date: 2020-04-12T20:50:00
 header:
   teaser: https://images.unsplash.com/photo-1570406050006-03eaaeb8fe75?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1354&q=80
