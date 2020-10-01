@@ -9,9 +9,9 @@
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<amp-script script="documentElement">
+<script script="documentElement">
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</amp-script>
+</script>
 
 
 
@@ -40,6 +40,6 @@
     {% else %}
       {% capture script_path %}{{ script | absolute_url }}{% endcapture %}
     {% endif %}
-    <amp-script src="{{ script_path }}"></amp-script>
+    <script src="{{ script_path }}"></script>
   {% endfor %}
 {% endif %}
