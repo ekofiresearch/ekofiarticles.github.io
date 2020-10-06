@@ -2,9 +2,9 @@
 title: "SpaceX is making ballistic missile tracking satellites for the Pentagon!"
 date: 2020-10-06T21:15:00
 header:
-  teaser: https://images.unsplash.com/photo-1570406050006-03eaaeb8fe75?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1354&q=80
+  teaser: https://images.unsplash.com/photo-1541185934-01b600ea069c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80
 ---
-![SpaceX is making ballistic missile tracking satellites for the Pentagon!](https://images.unsplash.com/photo-1570406050006-03eaaeb8fe75?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1354&q=80)
+![SpaceX is making ballistic missile tracking satellites for the Pentagon!](https://images.unsplash.com/photo-1541185934-01b600ea069c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80)
 
 The US Department of Defense Space Development Agency (SDA) awarded a $149 million contract to build four missile tracking satellites on Elon Musk's SpaceX.
 
