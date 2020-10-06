@@ -29,3 +29,5 @@ What is SDA?
 SDA is a Pentagon agency tasked with arming space for US interests and defense.
 
 This is SpaceX's first military contract, but not its first foray into the stars. As of this summer, Musk's rocket company launched more than 700 satellites.
+
+Labels: spacex space x spacex news rocket launch spacex latest news
